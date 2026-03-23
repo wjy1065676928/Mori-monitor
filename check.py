@@ -29,10 +29,19 @@ if os.path.exists("last_video.txt"):
 
 if video_id != last:
 
+
+    title_lower = title.lower()
+    
     if live_type == "live":
         tag = "🔴 LIVE NOW"
+
     elif live_type == "upcoming":
         tag = "⏰ LIVE SCHEDULED"
+
+    # 👇 用标题兜底（关键）
+    elif "#calliolive" in title_lower:
+        tag = "🔴 LIVE (title)"
+
     else:
         tag = "🎬 NEW VIDEO"
 
