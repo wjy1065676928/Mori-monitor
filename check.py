@@ -3,6 +3,7 @@ import smtplib
 from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
 import os
+import subprocess
 
 CHANNEL_ID = "UCL_qhgtOy0dy1Agp8vkySQg"
 
@@ -70,6 +71,21 @@ if video_id != last:
         with open("README.md", "w", encoding="utf-8") as f:
             f.write(new_readme)
         print("README.md 更新成功")
+
+        # 提交更改到 git
+        try:
+            subprocess.run(["git", "config", "--global", "user.name", "GitHub Actions"], check=True)
+            subprocess.run(["git", "config", "--global", "user.email", "actions@github.com"], check=True)
+            subprocess.run(["git", "add", "README.md"], check=True)
+            result = subprocess.run(["git", "commit", "-m", f"Update README with new video: {title}"], capture_output=True, text=True)
+            if result.returncode == 0:
+                subprocess.run(["git", "push"], check=True)
+                print("Git 提交成功")
+            else:
+                print("没有更改需要提交")
+        except Exception as e:
+            print("Git 操作失败:", e)
+
     except Exception as e:
         print("README.md 更新失败:", e)
 
