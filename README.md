@@ -1,3 +1,11 @@
+# 最新视频 / Latest Video
+
+🔴 LIVE (title) - [【handcam】arts n crafts with mori calli #calliolive](https://www.youtube.com/watch?v=nzI6EmQNqDE)
+
+![封面](https://i3.ytimg.com/vi/nzI6EmQNqDE/maxresdefault.jpg)
+
+---
+
 # Mori-monitor
 
 爱来自AI
