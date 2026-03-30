@@ -25,13 +25,19 @@ jobs:
 
       - run: pip install feedparser
 
+      - name: restore last video
+        uses: actions/cache@v4
+        with:
+          path: last_video.txt
+          key: last-video
+          restore-keys: |
+            last-video
+
       - name: run monitor
         run: python check.py
 
-      - name: commit state
-        run: |
-          git config --global user.name "GitHub Actions"
-          git config --global user.email "actions@github.com"
-          git add last_video.txt
-          git commit -m "update last video" || exit 0
-          git push
+      - name: save last video
+        uses: actions/cache/save@v4
+        with:
+          path: last_video.txt
+          key: last-video
