@@ -29,7 +29,6 @@ if os.path.exists("last_video.txt"):
 
 if video_id != last:
 
-
     title_lower = title.lower()
     
     if live_type == "live":
@@ -44,6 +43,35 @@ if video_id != last:
 
     else:
         tag = "🎬 NEW VIDEO"
+
+    # 更新 README.md
+    readme_content = f"""# 最新视频 / Latest Video
+
+{tag} - [{title}]({link})
+
+![封面]({thumbnail})
+
+---
+
+"""
+    try:
+        with open("README.md", "r", encoding="utf-8") as f:
+            current_readme = f.read()
+        # 检查是否已有最新视频部分，如果有则替换
+        if current_readme.startswith("# 最新视频 / Latest Video"):
+            # 找到第一个 --- 后的内容
+            parts = current_readme.split("---", 1)
+            if len(parts) > 1:
+                new_readme = readme_content + parts[1].lstrip()
+            else:
+                new_readme = readme_content + "\n" + current_readme
+        else:
+            new_readme = readme_content + current_readme
+        with open("README.md", "w", encoding="utf-8") as f:
+            f.write(new_readme)
+        print("README.md 更新成功")
+    except Exception as e:
+        print("README.md 更新失败:", e)
 
     msg = MIMEMultipart("alternative")
     msg["Subject"] = f"{tag} - {title}"
