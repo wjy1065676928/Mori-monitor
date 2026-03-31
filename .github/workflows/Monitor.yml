@@ -18,21 +18,11 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: read last video id
-        id: last_id
-        run: |
-          if [ -f last_video.txt ]; then
-            LAST=$(cat last_video.txt | tr -d '\n')
-          else
-            LAST=""
-          fi
-          echo "last_id=$LAST" >> $GITHUB_OUTPUT
-
       - name: restore last video
         uses: actions/cache@v3
         with:
           path: last_video.txt
-          key: last-video-${{ steps.last_id.outputs.last_id }}
+          key: last-video
           restore-keys: |
             last-video-
 
@@ -46,20 +36,10 @@ jobs:
       - name: run monitor
         run: python check.py
 
-      - name: read updated last video id
-        id: new_last_id
-        run: |
-          if [ -f last_video.txt ]; then
-            NEW=$(cat last_video.txt | tr -d '\n')
-          else
-            NEW=""
-          fi
-          echo "new_last_id=$NEW" >> $GITHUB_OUTPUT
-
       - name: save last video
         uses: actions/cache@v3
         with:
           path: last_video.txt
-          key: last-video-${{ steps.new_last_id.outputs.new_last_id }}
+          key: last-video-${{ github.run_number }}
           restore-keys: |
             last-video-
