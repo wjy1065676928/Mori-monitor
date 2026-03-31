@@ -22,7 +22,7 @@ jobs:
         uses: actions/cache@v3
         with:
           path: last_video.txt
-          key: last-video
+          key: last-video-${{ github.run_number }}
           restore-keys: |
             last-video-
 
