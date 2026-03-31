@@ -108,5 +108,6 @@ if video_id != last:
     except Exception as e:
         print("邮件发送失败:", e)
 
-    with open("last_video.txt", "w") as f:
-        f.write(video_id)
+# 总是更新 last_video.txt 为当前最新视频 ID
+with open("last_video.txt", "w") as f:
+    f.write(video_id)
