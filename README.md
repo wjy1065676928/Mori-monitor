@@ -1,8 +1,8 @@
 # 最新视频 / Latest Video
 
-🔴 LIVE (title) - [【handcam】arts n crafts with mori calli #calliolive](https://www.youtube.com/watch?v=nzI6EmQNqDE)
+🔴 LIVE (title) - [【SUPER LOOOONG STREAM】reading your messages and working!! drawing skeletons?! #calliolive](https://www.youtube.com/watch?v=K5RwOOCIAh8)
 
-![封面](https://i3.ytimg.com/vi/nzI6EmQNqDE/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/K5RwOOCIAh8/maxresdefault.jpg)
 
 ---
 
