@@ -26,18 +26,16 @@ jobs:
       - run: pip install feedparser
 
       - name: restore last video
-        uses: actions/cache@v4
+        uses: actions/cache@v3
         with:
           path: last_video.txt
           key: last-video
-          restore-keys: |
-            last-video
 
       - name: run monitor
         run: python check.py
 
       - name: save last video
-        uses: actions/cache/save@v4
+        uses: actions/cache@v3
         with:
           path: last_video.txt
           key: last-video

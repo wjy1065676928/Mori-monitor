@@ -28,6 +28,9 @@ if os.path.exists("last_video.txt"):
     with open("last_video.txt") as f:
         last = f.read().strip()
 
+print(f"Last video ID: {last}")
+print(f"Current video ID: {video_id}")
+
 if video_id != last:
 
     title_lower = title.lower()
