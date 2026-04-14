@@ -27,25 +27,26 @@ if os.path.exists("last_video.txt"):
     with open("last_video.txt") as f:
         last = f.read().strip()
 
-if video_id != last:
+print(f"Last video ID: {last}")
+print(f"Current video ID: {video_id}")
 
-    title_lower = title.lower()
-    
-    if live_type == "live":
-        tag = "🔴 LIVE NOW"
+# 生成当前视频的标签
+title_lower = title.lower()
 
-    elif live_type == "upcoming":
-        tag = "⏰ LIVE SCHEDULED"
+if live_type == "live":
+    tag = "🔴 LIVE NOW"
 
-    # 👇 用标题兜底（关键）
-    elif "#calliolive" in title_lower:
-        tag = "🔴 LIVE (title)"
+elif live_type == "upcoming":
+    tag = "⏰ LIVE SCHEDULED"
 
-    else:
-        tag = "🎬 NEW VIDEO"
+elif "#calliolive" in title_lower:
+    tag = "🔴 LIVE (title)"
 
-    # 更新 README.md
-    readme_content = f"""# 最新视频 / Latest Video
+else:
+    tag = "🎬 NEW VIDEO"
+
+# 总是更新 README.md 为当前最新视频
+readme_content = f"""# 最新视频 / Latest Video
 
 {tag} - [{title}]({link})
 
@@ -54,25 +55,24 @@ if video_id != last:
 ---
 
 """
-    try:
-        with open("README.md", "r", encoding="utf-8") as f:
-            current_readme = f.read()
-        # 检查是否已有最新视频部分，如果有则替换
-        if current_readme.startswith("# 最新视频 / Latest Video"):
-            # 找到第一个 --- 后的内容
-            parts = current_readme.split("---", 1)
-            if len(parts) > 1:
-                new_readme = readme_content + parts[1].lstrip()
-            else:
-                new_readme = readme_content + "\n" + current_readme
+try:
+    with open("README.md", "r", encoding="utf-8") as f:
+        current_readme = f.read()
+    if current_readme.startswith("# 最新视频 / Latest Video"):
+        parts = current_readme.split("---", 1)
+        if len(parts) > 1:
+            new_readme = readme_content + parts[1].lstrip()
         else:
-            new_readme = readme_content + current_readme
-        with open("README.md", "w", encoding="utf-8") as f:
-            f.write(new_readme)
-        print("README.md 更新成功")
-    except Exception as e:
-        print("README.md 更新失败:", e)
+            new_readme = readme_content + "\n" + current_readme
+    else:
+        new_readme = readme_content + current_readme
+    with open("README.md", "w", encoding="utf-8") as f:
+        f.write(new_readme)
+    print("README.md 更新成功")
+except Exception as e:
+    print("README.md 更新失败:", e)
 
+if video_id != last:
     msg = MIMEMultipart("alternative")
     msg["Subject"] = f"{tag} - {title}"
     msg["From"] = os.environ["MAIL_USER"]
