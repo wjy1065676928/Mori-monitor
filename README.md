@@ -1,3 +1,11 @@
+# 最新视频/直播
+
+🔴 LIVE (title) - [【DARK SOULS: REMASTERED】bye bye, smornstein and bough (level one challenge) #calliolive](https://www.youtube.com/watch?v=Pi30h5Cp0Hc)
+
+![封面](https://i3.ytimg.com/vi/Pi30h5Cp0Hc/maxresdefault.jpg)
+
+---
+
 # Mori-monitor
 
 爱来自AI
