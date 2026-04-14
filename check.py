@@ -47,7 +47,7 @@ else:
     tag = "🎬 NEW VIDEO"
 
 # 总是更新 README.md 为当前最新视频
-readme_content = f"""# 最新视频 / Latest Video
+readme_content = f"""# 最新视频/直播
 
 {tag} - [{title}]({link})
 
@@ -59,7 +59,7 @@ readme_content = f"""# 最新视频 / Latest Video
 try:
     with open("README.md", "r", encoding="utf-8") as f:
         current_readme = f.read()
-    if current_readme.startswith("# 最新视频 / Latest Video"):
+    if current_readme.startswith("# 最新视频/直播"):
         parts = current_readme.split("---", 1)
         if len(parts) > 1:
             new_readme = readme_content + parts[1].lstrip()
