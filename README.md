@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🔴 LIVE (title) - [【Tomodachi Life: Living the Dream】playing god today #calliolive](https://www.youtube.com/watch?v=GMjcHkwmWIQ)
+🔴 LIVE (title) - [【HOLO HYTALE SERVER】big adventures or I'm suing #calliolive](https://www.youtube.com/watch?v=rMSx6s9IO0s)
 
-![封面](https://i3.ytimg.com/vi/GMjcHkwmWIQ/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/rMSx6s9IO0s/maxresdefault.jpg)
 
 ---
 
