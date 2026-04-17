@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🔴 LIVE (title) - [【WarioWare: Move It!】light pink collab in 3D!! with mococo!! #calliolive](https://www.youtube.com/watch?v=6yEXpLzoOYk)
+🔴 LIVE (title) - [【Tomodachi Life: Living the Dream】playing god today #calliolive](https://www.youtube.com/watch?v=GMjcHkwmWIQ)
 
-![封面](https://i3.ytimg.com/vi/6yEXpLzoOYk/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/GMjcHkwmWIQ/maxresdefault.jpg)
 
 ---
 
