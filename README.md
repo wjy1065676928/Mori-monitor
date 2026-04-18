@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🔴 LIVE (title) - [【Tomodachi Life: Living the Dream】playing god today #calliolive](https://www.youtube.com/watch?v=GMjcHkwmWIQ)
+🔴 LIVE (title) - [【Pragmata】proving I'm the better father figure (part 1) #calliolive](https://www.youtube.com/watch?v=8kGwSPrRqhg)
 
-![封面](https://i3.ytimg.com/vi/GMjcHkwmWIQ/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/8kGwSPrRqhg/maxresdefault.jpg)
 
 ---
 
