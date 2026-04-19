@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🔴 LIVE (title) - [【Pragmata】proving I'm the better father figure (part 1) #calliolive](https://www.youtube.com/watch?v=8kGwSPrRqhg)
+🔴 LIVE (title) - [【WarioWare: Move It!】light pink collab in 3D!! with mococo!! #calliolive](https://www.youtube.com/watch?v=6yEXpLzoOYk)
 
-![封面](https://i3.ytimg.com/vi/8kGwSPrRqhg/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/6yEXpLzoOYk/maxresdefault.jpg)
 
 ---
 
