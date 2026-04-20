@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🔴 LIVE (title) - [【FUNKO FIND CHALLENGE!!】you hide them. we find them. 検索チャレンジ！#calliolive #pr #morifunkofind](https://www.youtube.com/watch?v=EkEGYeQ27YI)
+🔴 LIVE (title) - [【drawing stream】drawing a buuuunch of bones... #calliolive](https://www.youtube.com/watch?v=W0hpBFmA2t4)
 
-![封面](https://i3.ytimg.com/vi/EkEGYeQ27YI/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/W0hpBFmA2t4/maxresdefault.jpg)
 
 ---
 
