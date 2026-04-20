@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🔴 LIVE (title) - [【WarioWare: Move It!】light pink collab in 3D!! with mococo!! #calliolive](https://www.youtube.com/watch?v=6yEXpLzoOYk)
+🔴 LIVE (title) - [【FUNKO FIND CHALLENGE!!】you hide them. we find them. 検索チャレンジ！#calliolive #pr #morifunkofind](https://www.youtube.com/watch?v=EkEGYeQ27YI)
 
-![封面](https://i3.ytimg.com/vi/6yEXpLzoOYk/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/EkEGYeQ27YI/maxresdefault.jpg)
 
 ---
 
