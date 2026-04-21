@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🔴 LIVE (title) - [【drawing stream】drawing a buuuunch of bones... #calliolive](https://www.youtube.com/watch?v=W0hpBFmA2t4)
+🔴 LIVE (title) - [【NEW OUTFIT REVEAL】a killer new look...themed after Monster Hunter Stories 3!! #calliolive #ad](https://www.youtube.com/watch?v=yTrD5DqLkow)
 
-![封面](https://i3.ytimg.com/vi/W0hpBFmA2t4/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/yTrD5DqLkow/maxresdefault.jpg)
 
 ---
 
