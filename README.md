@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🔴 LIVE (title) - [【NEW OUTFIT REVEAL】a killer new look...themed after Monster Hunter Stories 3!! #calliolive #ad](https://www.youtube.com/watch?v=yTrD5DqLkow)
+🔴 LIVE (title) - [【Tomodachi Life: Living the Dream】free will is an illusion #calliolive](https://www.youtube.com/watch?v=PjRu2n7B08A)
 
-![封面](https://i3.ytimg.com/vi/yTrD5DqLkow/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/PjRu2n7B08A/maxresdefault.jpg)
 
 ---
 
