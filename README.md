@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🔴 LIVE (title) - [【Tomodachi Life: Living the Dream】free will is an illusion #calliolive](https://www.youtube.com/watch?v=PjRu2n7B08A)
+🔴 LIVE (title) - [【FUNKO FIND CHALLENGE!!】you hide them. we find them. 検索チャレンジ！#calliolive #pr #morifunkofind](https://www.youtube.com/watch?v=EkEGYeQ27YI)
 
-![封面](https://i3.ytimg.com/vi/PjRu2n7B08A/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/EkEGYeQ27YI/maxresdefault.jpg)
 
 ---
 
