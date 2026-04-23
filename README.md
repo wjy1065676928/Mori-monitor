@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🔴 LIVE (title) - [【FUNKO FIND CHALLENGE!!】you hide them. we find them. 検索チャレンジ！#calliolive #pr #morifunkofind](https://www.youtube.com/watch?v=EkEGYeQ27YI)
+🔴 LIVE (title) - [【holoVillage: Our Cozy Days】they sent her to a farm upstate #calliolive](https://www.youtube.com/watch?v=DTdqMWLP7BU)
 
-![封面](https://i3.ytimg.com/vi/EkEGYeQ27YI/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/DTdqMWLP7BU/maxresdefault.jpg)
 
 ---
 
