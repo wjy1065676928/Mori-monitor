@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🔴 LIVE (title) - [【drawing stream】drawing a buuuunch of bones... #calliolive](https://www.youtube.com/watch?v=W0hpBFmA2t4)
+🔴 LIVE (title) - [【HOLO HYTALE SERVER】always lost but enjoying life #calliolive](https://www.youtube.com/watch?v=og3yjUcDheY)
 
-![封面](https://i3.ytimg.com/vi/W0hpBFmA2t4/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/og3yjUcDheY/maxresdefault.jpg)
 
 ---
 
