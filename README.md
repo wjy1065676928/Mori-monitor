@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🔴 LIVE (title) - [【HOLO HYTALE SERVER】always lost but enjoying life #calliolive](https://www.youtube.com/watch?v=og3yjUcDheY)
+🔴 LIVE (title) - [【holoVillage: Our Cozy Days】they sent her to a farm upstate #calliolive](https://www.youtube.com/watch?v=DTdqMWLP7BU)
 
-![封面](https://i3.ytimg.com/vi/og3yjUcDheY/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/DTdqMWLP7BU/maxresdefault.jpg)
 
 ---
 
