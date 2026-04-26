@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🔴 LIVE (title) - [【holoVillage: Our Cozy Days】they sent her to a farm upstate #calliolive](https://www.youtube.com/watch?v=DTdqMWLP7BU)
+🔴 LIVE (title) - [【member's only】screaming my lungs out yet again in ROUTINE... #calliolive](https://www.youtube.com/watch?v=S7oXN7sVdz0)
 
-![封面](https://i3.ytimg.com/vi/DTdqMWLP7BU/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/S7oXN7sVdz0/maxresdefault.jpg)
 
 ---
 
