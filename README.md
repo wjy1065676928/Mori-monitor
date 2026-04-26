@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🔴 LIVE (title) - [【member's only】screaming my lungs out yet again in ROUTINE... #calliolive](https://www.youtube.com/watch?v=S7oXN7sVdz0)
+🔴 LIVE (title) - [【DARK SOULS: REMASTERED】hELP (level one challenge) #calliolive](https://www.youtube.com/watch?v=7FJIAgWJb80)
 
-![封面](https://i3.ytimg.com/vi/S7oXN7sVdz0/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/7FJIAgWJb80/maxresdefault.jpg)
 
 ---
 
