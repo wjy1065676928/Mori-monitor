@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🎬 NEW VIDEO - [what the doodoo doin’? #animation #anime #hololive #vtuber #envtuber](https://www.youtube.com/shorts/yJgD4LfuYYw)
+🔴 LIVE (title) - [【Darksiders】up my alley game, probably (part 1) #calliolive](https://www.youtube.com/watch?v=F-fqVoYovFE)
 
-![封面](https://i3.ytimg.com/vi/yJgD4LfuYYw/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/F-fqVoYovFE/maxresdefault.jpg)
 
 ---
 
