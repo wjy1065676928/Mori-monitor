@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🔴 LIVE (title) - [【Darksiders】up my alley game, probably (part 1) #calliolive](https://www.youtube.com/watch?v=F-fqVoYovFE)
+🔴 LIVE (title) - [【DARK SOULS: REMASTERED】hELP (level one challenge) #calliolive](https://www.youtube.com/watch?v=7FJIAgWJb80)
 
-![封面](https://i3.ytimg.com/vi/F-fqVoYovFE/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/7FJIAgWJb80/maxresdefault.jpg)
 
 ---
 
