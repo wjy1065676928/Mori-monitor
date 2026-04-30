@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🔴 LIVE (title) - [【Pragmata】you're my dad! boogie woogie woogie (part 2) #calliolive](https://www.youtube.com/watch?v=y0WsNvXOdns)
+🔴 LIVE (title) - [【Darksiders】up my alley game, probably (part 1) #calliolive](https://www.youtube.com/watch?v=F-fqVoYovFE)
 
-![封面](https://i3.ytimg.com/vi/y0WsNvXOdns/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/F-fqVoYovFE/maxresdefault.jpg)
 
 ---
 
