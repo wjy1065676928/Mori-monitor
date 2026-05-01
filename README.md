@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🔴 LIVE (title) - [【Darksiders】up my alley game, probably (part 1) #calliolive](https://www.youtube.com/watch?v=F-fqVoYovFE)
+🎬 NEW VIDEO - [facehugger #anime #animation #hololive #vtuber #envtuber #gigimurin](https://www.youtube.com/shorts/iM5s2HWk4Q4)
 
-![封面](https://i3.ytimg.com/vi/F-fqVoYovFE/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/iM5s2HWk4Q4/maxresdefault.jpg)
 
 ---
 
