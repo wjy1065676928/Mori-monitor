@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🎬 NEW VIDEO - [facehugger #anime #animation #hololive #vtuber #envtuber #gigimurin](https://www.youtube.com/shorts/iM5s2HWk4Q4)
+🎬 NEW VIDEO - [黎明Compass×機動警察パトレイバー EZY collaboration Teaser](https://www.youtube.com/watch?v=usdfDwEdp2Q)
 
-![封面](https://i3.ytimg.com/vi/iM5s2HWk4Q4/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/usdfDwEdp2Q/maxresdefault.jpg)
 
 ---
 
