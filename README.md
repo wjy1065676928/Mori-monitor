@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🎬 NEW VIDEO - [黎明Compass×機動警察パトレイバー EZY collaboration Teaser](https://www.youtube.com/watch?v=usdfDwEdp2Q)
+🎬 NEW VIDEO - ["GriMoire" - Mori Calliope 2nd Solo Concert Blu-Ray Release!](https://www.youtube.com/watch?v=6BWTh9sHHco)
 
-![封面](https://i3.ytimg.com/vi/usdfDwEdp2Q/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/6BWTh9sHHco/maxresdefault.jpg)
 
 ---
 
