@@ -1,3 +1,11 @@
+# 最新视频/直播
+
+🎬 NEW VIDEO - ["GriMoire" - Mori Calliope 2nd Solo Concert Blu-Ray Release!](https://www.youtube.com/watch?v=6BWTh9sHHco)
+
+![封面](https://i3.ytimg.com/vi/6BWTh9sHHco/maxresdefault.jpg)
+
+---
+
 # Mori-monitor
 
 爱来自AI
