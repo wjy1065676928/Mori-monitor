@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🎬 NEW VIDEO - ["GriMoire" - Mori Calliope 2nd Solo Concert Blu-Ray Release!](https://www.youtube.com/watch?v=6BWTh9sHHco)
+🔴 LIVE (title) - [back to streaming! talking a lot #calliolive](https://www.youtube.com/watch?v=3-2TkjzFzss)
 
-![封面](https://i3.ytimg.com/vi/6BWTh9sHHco/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/3-2TkjzFzss/maxresdefault.jpg)
 
 ---
 
