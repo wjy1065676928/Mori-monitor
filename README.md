@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🔴 LIVE (title) - [【PaRappa the Rapper】i gotta believe!! #calliolive](https://www.youtube.com/watch?v=Q8PQ-0f6-Iw)
+🎬 NEW VIDEO - [Watching the BIG SOCCER GAME with Kobo!! hololive production Special Day with Albirex Niigata FC (S)](https://www.youtube.com/watch?v=wsksJOS6PcA)
 
-![封面](https://i3.ytimg.com/vi/Q8PQ-0f6-Iw/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/wsksJOS6PcA/maxresdefault.jpg)
 
 ---
 
