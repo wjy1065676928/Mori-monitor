@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🔴 LIVE (title) - [back to streaming! talking a lot #calliolive](https://www.youtube.com/watch?v=3-2TkjzFzss)
+🎬 NEW VIDEO - [Watching the BIG SOCCER GAME with Kobo!! hololive production Special Day with Albirex Niigata FC (S)](https://www.youtube.com/watch?v=wsksJOS6PcA)
 
-![封面](https://i3.ytimg.com/vi/3-2TkjzFzss/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/wsksJOS6PcA/maxresdefault.jpg)
 
 ---
 
