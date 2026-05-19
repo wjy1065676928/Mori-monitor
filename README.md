@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🔴 LIVE (title) - [【member's only】evening chat with the skeletons #calliolive](https://www.youtube.com/watch?v=RgYlo6xeDqI)
+🔴 LIVE (title) - [【PaRappa the Rapper】i gotta believe!! #calliolive](https://www.youtube.com/watch?v=Q8PQ-0f6-Iw)
 
-![封面](https://i3.ytimg.com/vi/RgYlo6xeDqI/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/Q8PQ-0f6-Iw/maxresdefault.jpg)
 
 ---
 
