@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🔴 LIVE (title) - [【PaRappa the Rapper】i gotta believe!! #calliolive](https://www.youtube.com/watch?v=Q8PQ-0f6-Iw)
+🔴 LIVE (title) - [【HANDCAM】Warhammer Painting with Biboo...getting hype for Skulls!! #calliolive](https://www.youtube.com/watch?v=4xxkUEkUCoU)
 
-![封面](https://i3.ytimg.com/vi/Q8PQ-0f6-Iw/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/4xxkUEkUCoU/maxresdefault.jpg)
 
 ---
 
