@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🔴 LIVE (title) - [【Venus Vacation PRISM - Dead or Alive Xtreme】i needed a girls vacation (SPOILERS AHEAD) #calliolive](https://www.youtube.com/watch?v=VtS5xLoVuug)
+🔴 LIVE (title) - [【HANDCAM】Warhammer Painting with Biboo...getting hype for Skulls!! #calliolive](https://www.youtube.com/watch?v=4xxkUEkUCoU)
 
-![封面](https://i3.ytimg.com/vi/VtS5xLoVuug/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/4xxkUEkUCoU/maxresdefault.jpg)
 
 ---
 
