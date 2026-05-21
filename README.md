@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🔴 LIVE (title) - [【HANDCAM】Warhammer Painting with Biboo...getting hype for Skulls!! #calliolive](https://www.youtube.com/watch?v=4xxkUEkUCoU)
+🔴 LIVE (title) - [【member's only】hhh holo songs i think #calliolive](https://www.youtube.com/watch?v=3kBIwbatk0I)
 
-![封面](https://i3.ytimg.com/vi/4xxkUEkUCoU/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/3kBIwbatk0I/maxresdefault.jpg)
 
 ---
 
