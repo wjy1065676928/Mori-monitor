@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🔴 LIVE (title) - [【BAKING COLLAB】let them coooooook #calliolive](https://www.youtube.com/watch?v=5BaOYp1EBOI)
+🔴 LIVE (title) - [【MINECRAFT RP】cooking up CONTROVERSY with the wandering chef, Mordan Ramsay #calliolive #enreco](https://www.youtube.com/watch?v=jWrom0fcdQk)
 
-![封面](https://i3.ytimg.com/vi/5BaOYp1EBOI/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/jWrom0fcdQk/maxresdefault.jpg)
 
 ---
 
