@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🔴 LIVE (title) - [【member's only】we are NOT playing Routine tonight!!! #calliolive](https://www.youtube.com/watch?v=I6gdJ-8kf9I)
+🔴 LIVE (title) - [【BAKING COLLAB】let them coooooook #calliolive](https://www.youtube.com/watch?v=5BaOYp1EBOI)
 
-![封面](https://i3.ytimg.com/vi/I6gdJ-8kf9I/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/5BaOYp1EBOI/maxresdefault.jpg)
 
 ---
 
