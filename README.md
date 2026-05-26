@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🔴 LIVE (title) - [【MINECRAFT RP】cooking up CONTROVERSY with the wandering chef, Mordan Ramsay #calliolive #enreco](https://www.youtube.com/watch?v=jWrom0fcdQk)
+🔴 LIVE (title) - [【MINECRAFT RP】the melancholy of mordon ramsay #calliolive #enreco](https://www.youtube.com/watch?v=VXqngzJKNZU)
 
-![封面](https://i3.ytimg.com/vi/jWrom0fcdQk/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/VXqngzJKNZU/maxresdefault.jpg)
 
 ---
 
