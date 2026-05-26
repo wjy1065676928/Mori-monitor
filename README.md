@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🔴 LIVE (title) - [【MINECRAFT RP】the melancholy of mordon ramsay #calliolive #enreco](https://www.youtube.com/watch?v=VXqngzJKNZU)
+🔴 LIVE (title) - [【member's only】your favorite mod is back, hypnospace bros (part 2) #calliolive](https://www.youtube.com/watch?v=4WLlliZjDrA)
 
-![封面](https://i3.ytimg.com/vi/VXqngzJKNZU/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/4WLlliZjDrA/maxresdefault.jpg)
 
 ---
 
