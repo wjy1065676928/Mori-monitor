@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🔴 LIVE (title) - [【MINECRAFT RP】the melancholy of mordon ramsay #calliolive #enreco](https://www.youtube.com/watch?v=VXqngzJKNZU)
+🔴 LIVE (title) - [【MINECRAFT RP】rise n' grind #calliolive #enreco](https://www.youtube.com/watch?v=UBbTSf5A9bc)
 
-![封面](https://i3.ytimg.com/vi/VXqngzJKNZU/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/UBbTSf5A9bc/maxresdefault.jpg)
 
 ---
 
