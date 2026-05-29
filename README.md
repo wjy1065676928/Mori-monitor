@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🔴 LIVE (title) - [【MINECRAFT RP】rise n' grind #calliolive #enreco](https://www.youtube.com/watch?v=UBbTSf5A9bc)
+🎬 NEW VIDEO - [haha good one #hololive #animation #anime #vtuber](https://www.youtube.com/shorts/W6WoTztxFp0)
 
-![封面](https://i3.ytimg.com/vi/UBbTSf5A9bc/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/W6WoTztxFp0/maxresdefault.jpg)
 
 ---
 
