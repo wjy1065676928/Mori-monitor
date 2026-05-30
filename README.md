@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🎬 NEW VIDEO - [haha good one #hololive #animation #anime #vtuber](https://www.youtube.com/shorts/W6WoTztxFp0)
+🔴 LIVE (title) - [【MINECRAFT RP】good food can save the world #calliolive #enreco](https://www.youtube.com/watch?v=j2loI_6HkqI)
 
-![封面](https://i3.ytimg.com/vi/W6WoTztxFp0/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/j2loI_6HkqI/maxresdefault.jpg)
 
 ---
 
