@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🎬 NEW VIDEO - [【1 Hour Relaxing BGM】Chilling With Mori and Friends!](https://www.youtube.com/watch?v=PKe2S_TksHY)
+🔴 LIVE (title) - [【STATE OF PLAY WATCH PARTY】here comes the runback...with @KosekiBijou  #calliolive](https://www.youtube.com/watch?v=-Ps5pxGJNEQ)
 
-![封面](https://i3.ytimg.com/vi/PKe2S_TksHY/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/-Ps5pxGJNEQ/maxresdefault.jpg)
 
 ---
 
