@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🔴 LIVE (title) - [【MINECRAFT RP】good food can save the world #calliolive #enreco](https://www.youtube.com/watch?v=j2loI_6HkqI)
+🎬 NEW VIDEO - [【1 Hour Relaxing BGM】Chilling With Mori and Friends!](https://www.youtube.com/watch?v=PKe2S_TksHY)
 
-![封面](https://i3.ytimg.com/vi/j2loI_6HkqI/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/PKe2S_TksHY/maxresdefault.jpg)
 
 ---
 
