@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🔴 LIVE (title) - [【STATE OF PLAY WATCH PARTY】here comes the runback...with @KosekiBijou  #calliolive](https://www.youtube.com/watch?v=-Ps5pxGJNEQ)
+🔴 LIVE (title) - [【SUPER MARIO MAKER 2】looks easy #calliolive](https://www.youtube.com/watch?v=VZC1rYPuvM0)
 
-![封面](https://i3.ytimg.com/vi/-Ps5pxGJNEQ/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/VZC1rYPuvM0/maxresdefault.jpg)
 
 ---
 
