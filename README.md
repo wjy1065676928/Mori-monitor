@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🔴 LIVE (title) - [【SUPER MARIO MAKER 2】looks easy #calliolive](https://www.youtube.com/watch?v=VZC1rYPuvM0)
+🔴 LIVE (title) - [【元祖ホロヨイ】mixing drinks and changing my friends' lives #calliolive](https://www.youtube.com/watch?v=gEKGTYJRVUM)
 
-![封面](https://i3.ytimg.com/vi/VZC1rYPuvM0/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/gEKGTYJRVUM/maxresdefault.jpg)
 
 ---
 
