@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🔴 LIVE (title) - [【member's only】saving the internet (finale) #calliolive](https://www.youtube.com/watch?v=sq0NT8GntZs)
+🔴 LIVE (title) - [【STATE OF PLAY WATCH PARTY】here comes the runback...with @KosekiBijou  #calliolive](https://www.youtube.com/watch?v=-Ps5pxGJNEQ)
 
-![封面](https://i3.ytimg.com/vi/sq0NT8GntZs/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/-Ps5pxGJNEQ/maxresdefault.jpg)
 
 ---
 
