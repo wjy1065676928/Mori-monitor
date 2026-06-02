@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🔴 LIVE (title) - [【元祖ホロヨイ】mixing drinks and changing my friends' lives #calliolive](https://www.youtube.com/watch?v=gEKGTYJRVUM)
+🔴 LIVE (title) - [【member's only】saving the internet (finale) #calliolive](https://www.youtube.com/watch?v=sq0NT8GntZs)
 
-![封面](https://i3.ytimg.com/vi/gEKGTYJRVUM/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/sq0NT8GntZs/maxresdefault.jpg)
 
 ---
 
