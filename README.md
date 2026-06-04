@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🔴 LIVE (title) - [【STATE OF PLAY WATCH PARTY】here comes the runback...with @KosekiBijou  #calliolive](https://www.youtube.com/watch?v=-Ps5pxGJNEQ)
+🔴 LIVE (title) - [【PaRappa the Rapper 2】anything goes!! featuring @holoen_gigimurin #calliolive](https://www.youtube.com/watch?v=DnvFJLi60sM)
 
-![封面](https://i3.ytimg.com/vi/-Ps5pxGJNEQ/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/DnvFJLi60sM/maxresdefault.jpg)
 
 ---
 
