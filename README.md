@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🔴 LIVE (title) - [【PaRappa the Rapper 2】anything goes!! featuring @holoen_gigimurin #calliolive](https://www.youtube.com/watch?v=DnvFJLi60sM)
+🔴 LIVE (title) - [【FUTURE GAMES SHOW】whoah oh, biboo on a chair (full mirror watchalong) #calliolive](https://www.youtube.com/watch?v=l_-bR-z4uzo)
 
-![封面](https://i3.ytimg.com/vi/DnvFJLi60sM/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/l_-bR-z4uzo/maxresdefault.jpg)
 
 ---
 
