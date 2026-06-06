@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🔴 LIVE (title) - [【元祖ホロヨイ】mixing drinks and changing my friends' lives #calliolive](https://www.youtube.com/watch?v=gEKGTYJRVUM)
+🔴 LIVE (title) - [【FUTURE GAMES SHOW】whoah oh, biboo on a chair (full mirror watchalong) #calliolive](https://www.youtube.com/watch?v=l_-bR-z4uzo)
 
-![封面](https://i3.ytimg.com/vi/gEKGTYJRVUM/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/l_-bR-z4uzo/maxresdefault.jpg)
 
 ---
 
