@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🔴 LIVE (title) - [【FUTURE GAMES SHOW】whoah oh, biboo on a chair (full mirror watchalong) #calliolive](https://www.youtube.com/watch?v=l_-bR-z4uzo)
+🔴 LIVE (title) - [【UNARCHIVED JAZZ KARAOKE】Singing Jazz Classics back in my bar! #calliolive](https://www.youtube.com/watch?v=_oD9pYwd2Os)
 
-![封面](https://i3.ytimg.com/vi/l_-bR-z4uzo/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/_oD9pYwd2Os/maxresdefault.jpg)
 
 ---
 
