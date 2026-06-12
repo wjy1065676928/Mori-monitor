@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🔴 LIVE (title) - [xbox showcase watchalong with biboo #calliolive](https://www.youtube.com/watch?v=hYxNkLnHrAg)
+🎬 NEW VIDEO - [FOR THE EMPEROR?! #hololive #warhammer #anime #PR #vtuber](https://www.youtube.com/shorts/RW4-0M-yYRA)
 
-![封面](https://i3.ytimg.com/vi/hYxNkLnHrAg/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/RW4-0M-yYRA/maxresdefault.jpg)
 
 ---
 
