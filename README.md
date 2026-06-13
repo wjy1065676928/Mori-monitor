@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🎬 NEW VIDEO - [FOR THE EMPEROR?! #hololive #warhammer #anime #PR #vtuber](https://www.youtube.com/shorts/RW4-0M-yYRA)
+🎬 NEW VIDEO - [gotta fly!! #dance #hololive #鷹嶺ルイの反逆 #Soar #anime](https://www.youtube.com/shorts/6txQmhQyxGo)
 
-![封面](https://i3.ytimg.com/vi/RW4-0M-yYRA/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/6txQmhQyxGo/maxresdefault.jpg)
 
 ---
 
