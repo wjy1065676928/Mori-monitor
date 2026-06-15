@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🔴 LIVE (title) - [【UNARCHIVED ROCK & METAL KARAOKE】rip throat #calliolive](https://www.youtube.com/watch?v=jrjTiWbtny0)
+🎬 NEW VIDEO - [gotta fly!! #dance #hololive #鷹嶺ルイの反逆 #Soar #anime](https://www.youtube.com/shorts/6txQmhQyxGo)
 
-![封面](https://i3.ytimg.com/vi/jrjTiWbtny0/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/6txQmhQyxGo/maxresdefault.jpg)
 
 ---
 
