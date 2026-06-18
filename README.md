@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🔴 LIVE (title) - [【Mina the Hollower】oh shxt, a rat #calliolive](https://www.youtube.com/watch?v=MSHo8dTDg4s)
+🔴 LIVE (title) - [【Persona 4 Revival News?!】facing my shadows with the dead beats. full mirror watchalong! #calliolive](https://www.youtube.com/watch?v=ZTjSQj2VDug)
 
-![封面](https://i3.ytimg.com/vi/MSHo8dTDg4s/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/ZTjSQj2VDug/maxresdefault.jpg)
 
 ---
 
