@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🔴 LIVE (title) - [【Persona 4 Revival News?!】facing my shadows with the dead beats. full mirror watchalong! #calliolive](https://www.youtube.com/watch?v=ZTjSQj2VDug)
+🎬 NEW VIDEO - [riona slipped into my body for this dance…!? #響咲リオナ #Ringmyname #dance #hololive #anime #MMD](https://www.youtube.com/shorts/rAR9fgHBKwI)
 
-![封面](https://i3.ytimg.com/vi/ZTjSQj2VDug/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/rAR9fgHBKwI/maxresdefault.jpg)
 
 ---
 
