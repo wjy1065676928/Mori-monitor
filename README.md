@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🔴 LIVE (title) - [【UNARCHIVED SAD SONG KARAOKE】hello darkness my old friend #calliolive](https://www.youtube.com/watch?v=0kvVjjA0j7M)
+🎬 NEW VIDEO - [riona slipped into my body for this dance…!? #響咲リオナ #Ringmyname #dance #hololive #anime #MMD](https://www.youtube.com/shorts/rAR9fgHBKwI)
 
-![封面](https://i3.ytimg.com/vi/0kvVjjA0j7M/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/rAR9fgHBKwI/maxresdefault.jpg)
 
 ---
 
