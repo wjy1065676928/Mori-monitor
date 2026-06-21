@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🔴 LIVE (title) - [【member's only】june live concert! #calliolive](https://www.youtube.com/watch?v=LN6X8c5C1pY)
+🔴 LIVE (title) - [【Fields of Mistria】checking in to show off my sick farm #calliolive](https://www.youtube.com/watch?v=76-YKpxYL4g)
 
-![封面](https://i3.ytimg.com/vi/LN6X8c5C1pY/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/76-YKpxYL4g/maxresdefault.jpg)
 
 ---
 
