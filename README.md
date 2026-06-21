@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🔴 LIVE (title) - [【Fields of Mistria】checking in to show off my sick farm #calliolive](https://www.youtube.com/watch?v=76-YKpxYL4g)
+🔴 LIVE (title) - [【Pokémon Champions ホロライブ杯】GANBARUZO!!! #calliolive](https://www.youtube.com/watch?v=Yjc5R0dBoGw)
 
-![封面](https://i3.ytimg.com/vi/76-YKpxYL4g/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/Yjc5R0dBoGw/maxresdefault.jpg)
 
 ---
 
