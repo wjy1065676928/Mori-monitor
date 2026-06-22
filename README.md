@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🔴 LIVE (title) - [【Pokémon Champions ホロライブ杯】GANBARUZO!!! #calliolive](https://www.youtube.com/watch?v=Yjc5R0dBoGw)
+🔴 LIVE (title) - [【member's only】card pulling!! aiming for ANOTHER SIGN!! #calliolive](https://www.youtube.com/watch?v=6mNg_sjtnHk)
 
-![封面](https://i3.ytimg.com/vi/Yjc5R0dBoGw/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/6mNg_sjtnHk/maxresdefault.jpg)
 
 ---
 
