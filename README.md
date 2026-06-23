@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🔴 LIVE (title) - [【member's only】card pulling!! aiming for ANOTHER SIGN!! #calliolive](https://www.youtube.com/watch?v=6mNg_sjtnHk)
+🎬 NEW VIDEO - [any last words, Shiorin???? #holoSerendipity #anime #animation #hololive #envtuber](https://www.youtube.com/shorts/1nvsguYs3UQ)
 
-![封面](https://i3.ytimg.com/vi/6mNg_sjtnHk/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/1nvsguYs3UQ/maxresdefault.jpg)
 
 ---
 
