@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🎬 NEW VIDEO - [any last words, Shiorin???? #holoSerendipity #anime #animation #hololive #envtuber](https://www.youtube.com/shorts/1nvsguYs3UQ)
+🔴 LIVE (title) - [【Gitaroo Man】im not normal about gitaroo man #calliolive](https://www.youtube.com/watch?v=11ks6_rpbfo)
 
-![封面](https://i3.ytimg.com/vi/1nvsguYs3UQ/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/11ks6_rpbfo/maxresdefault.jpg)
 
 ---
 
