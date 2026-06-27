@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🔴 LIVE (title) - [【Gitaroo Man】im not normal about gitaroo man #calliolive](https://www.youtube.com/watch?v=11ks6_rpbfo)
+🔴 LIVE (title) - [【#キズナアイ杯2026】NAKAYOKU NARITAI ZE!! #calliolive](https://www.youtube.com/watch?v=9n3DQIMbzaM)
 
-![封面](https://i3.ytimg.com/vi/11ks6_rpbfo/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/9n3DQIMbzaM/maxresdefault.jpg)
 
 ---
 
