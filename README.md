@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🔴 LIVE (title) - [【#キズナアイ杯2026】NAKAYOKU NARITAI ZE!! #calliolive](https://www.youtube.com/watch?v=9n3DQIMbzaM)
+🎬 NEW VIDEO - [rejoice, brother bibus #hololive #warhammer #anime #PR #vtuber](https://www.youtube.com/shorts/iU3UWeObvCY)
 
-![封面](https://i3.ytimg.com/vi/9n3DQIMbzaM/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/iU3UWeObvCY/maxresdefault.jpg)
 
 ---
 
