@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🎬 NEW VIDEO - [ONE TIME!! IN A LIFETIME!! THAT’S…right… #holoSerendipity hololive #anime #holoen #vtuber #dance](https://www.youtube.com/shorts/lAN0X0Pbpf0)
+🔴 LIVE (title) - [【UNARCHIVED PERSONA KARAOKE】baby baby baby baby baby yeeeEEEEEAH #calliolive](https://www.youtube.com/watch?v=VeVOGjX3L2E)
 
-![封面](https://i3.ytimg.com/vi/lAN0X0Pbpf0/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/VeVOGjX3L2E/maxresdefault.jpg)
 
 ---
 
