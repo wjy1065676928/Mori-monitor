@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🎬 NEW VIDEO - [ONE TIME!! IN A LIFETIME!! THAT’S…right… #holoSerendipity hololive #anime #holoen #vtuber #dance](https://www.youtube.com/shorts/lAN0X0Pbpf0)
+🔴 LIVE (title) - [【FIFA WORLD CUP WATCHALONG】i know ball (i actually don't please teach me) #calliolive](https://www.youtube.com/watch?v=OA1OCM8k4O4)
 
-![封面](https://i3.ytimg.com/vi/lAN0X0Pbpf0/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/OA1OCM8k4O4/maxresdefault.jpg)
 
 ---
 
