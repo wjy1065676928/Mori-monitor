@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🎬 NEW VIDEO - [rejoice, brother bibus #hololive #warhammer #anime #PR #vtuber](https://www.youtube.com/shorts/iU3UWeObvCY)
+🔴 LIVE (title) - [【UNARCHIVED PERSONA KARAOKE】baby baby baby baby baby yeeeEEEEEAH #calliolive](https://www.youtube.com/watch?v=VeVOGjX3L2E)
 
-![封面](https://i3.ytimg.com/vi/iU3UWeObvCY/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/VeVOGjX3L2E/maxresdefault.jpg)
 
 ---
 
