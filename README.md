@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🔴 LIVE (title) - [【FIFA WORLD CUP WATCHALONG】i know ball (i actually don't please teach me) #calliolive](https://www.youtube.com/watch?v=OA1OCM8k4O4)
+🔴 LIVE (title) - [【Gitaroo Man】im not normal about gitaroo man #calliolive](https://www.youtube.com/watch?v=11ks6_rpbfo)
 
-![封面](https://i3.ytimg.com/vi/OA1OCM8k4O4/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/11ks6_rpbfo/maxresdefault.jpg)
 
 ---
 
