@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🔴 LIVE (title) - [【MECCHA CHAMELEON】a master of disguise is ME #calliolive](https://www.youtube.com/watch?v=AjVmle8V2QQ)
+🔴 LIVE (title) - [【#キズナアイ杯2026】NAKAYOKU NARITAI ZE!! #calliolive](https://www.youtube.com/watch?v=9n3DQIMbzaM)
 
-![封面](https://i3.ytimg.com/vi/AjVmle8V2QQ/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/9n3DQIMbzaM/maxresdefault.jpg)
 
 ---
 
