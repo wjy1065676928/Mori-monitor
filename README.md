@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🔴 LIVE (title) - [【FIFA WORLD CUP WATCHALONG】lock in, Japan. #calliolive](https://www.youtube.com/watch?v=vzecK1DUZ-Y)
+🔴 LIVE (title) - [【MECCHA CHAMELEON】a master of disguise is ME #calliolive](https://www.youtube.com/watch?v=AjVmle8V2QQ)
 
-![封面](https://i3.ytimg.com/vi/vzecK1DUZ-Y/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/AjVmle8V2QQ/maxresdefault.jpg)
 
 ---
 
