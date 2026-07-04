@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🔴 LIVE (title) - [【SERENDIPITY HOTEL TALK】it's tradition! #calliolive](https://www.youtube.com/watch?v=0OoToPU1Mbo)
+🔴 LIVE (title) - [【CHEER ROOM】welcome to the bonezone #calliolive](https://www.youtube.com/watch?v=HFCvn1Fw4Js)
 
-![封面](https://i3.ytimg.com/vi/0OoToPU1Mbo/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/HFCvn1Fw4Js/maxresdefault.jpg)
 
 ---
 
