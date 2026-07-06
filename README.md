@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🔴 LIVE (title) - [【CHEER ROOM】welcome to the bonezone #calliolive](https://www.youtube.com/watch?v=HFCvn1Fw4Js)
+🎬 NEW VIDEO - [vibing to Rio’s song. big ups! fly high!! #dance #animation #hololive #mmd #holoen #holostars](https://www.youtube.com/shorts/i2PZ5ChQUUM)
 
-![封面](https://i3.ytimg.com/vi/HFCvn1Fw4Js/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/i2PZ5ChQUUM/maxresdefault.jpg)
 
 ---
 
