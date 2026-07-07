@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🔴 LIVE (title) - [Mori watches "The Amazing Digital Circus" (full mirror) #calliolive](https://www.youtube.com/watch?v=kNexuQvhk64)
+🎬 NEW VIDEO - [call me zako…please…….. #dance #hololive #holoen #anime #vtuber](https://www.youtube.com/shorts/6RyoX5OjqEA)
 
-![封面](https://i3.ytimg.com/vi/kNexuQvhk64/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/6RyoX5OjqEA/maxresdefault.jpg)
 
 ---
 
