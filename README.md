@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🔴 LIVE (title) - [Mori watches "The Amazing Digital Circus" (full mirror) #calliolive](https://www.youtube.com/watch?v=kNexuQvhk64)
+🎬 NEW VIDEO - [the time my cat went viral #anime #animation #hololive #holoen #vtuber](https://www.youtube.com/shorts/14EOx5ReCfU)
 
-![封面](https://i3.ytimg.com/vi/kNexuQvhk64/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/14EOx5ReCfU/maxresdefault.jpg)
 
 ---
 
