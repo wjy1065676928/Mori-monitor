@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🎬 NEW VIDEO - [the time my cat went viral #anime #animation #hololive #holoen #vtuber](https://www.youtube.com/shorts/14EOx5ReCfU)
+🎬 NEW VIDEO - [what if your oshi was a skeleton? #anime #hololive #animation #vtuber #holoen](https://www.youtube.com/shorts/2X2--5yx-wA)
 
-![封面](https://i3.ytimg.com/vi/14EOx5ReCfU/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/2X2--5yx-wA/maxresdefault.jpg)
 
 ---
 
