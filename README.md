@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🔴 LIVE (title) - [【member's only】play game. #calliolive](https://www.youtube.com/watch?v=Mpvd8DK5eHw)
+🎬 NEW VIDEO - [what if your oshi was a skeleton? #anime #hololive #animation #vtuber #holoen](https://www.youtube.com/shorts/2X2--5yx-wA)
 
-![封面](https://i3.ytimg.com/vi/Mpvd8DK5eHw/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/2X2--5yx-wA/maxresdefault.jpg)
 
 ---
 
