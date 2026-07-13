@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🎬 NEW VIDEO - [what if your oshi was a skeleton? #anime #hololive #animation #vtuber #holoen](https://www.youtube.com/shorts/2X2--5yx-wA)
+🎬 NEW VIDEO - [shinigami on wheels #anime #animation #hololive #holoen #vtuber #storytime](https://www.youtube.com/shorts/vCpVKOW_QS4)
 
-![封面](https://i3.ytimg.com/vi/2X2--5yx-wA/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/vCpVKOW_QS4/maxresdefault.jpg)
 
 ---
 
