@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🎬 NEW VIDEO - [shinigami on wheels #anime #animation #hololive #holoen #vtuber #storytime](https://www.youtube.com/shorts/vCpVKOW_QS4)
+🎬 NEW VIDEO - [morizakaya #anime #animation #hololive #vtuber #hololiveenglish #envtuber #storytime](https://www.youtube.com/shorts/Fk-66Jv1b70)
 
-![封面](https://i3.ytimg.com/vi/vCpVKOW_QS4/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/Fk-66Jv1b70/maxresdefault.jpg)
 
 ---
 
