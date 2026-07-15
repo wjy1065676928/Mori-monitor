@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🎬 NEW VIDEO - [morizakaya #anime #animation #hololive #vtuber #hololiveenglish #envtuber #storytime](https://www.youtube.com/shorts/Fk-66Jv1b70)
+🎬 NEW VIDEO - […they’re releasing WHAT?!?!? #anime #animation #persona #hololive #vtuber #persona6](https://www.youtube.com/shorts/95puMqaPmOM)
 
-![封面](https://i3.ytimg.com/vi/Fk-66Jv1b70/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/95puMqaPmOM/maxresdefault.jpg)
 
 ---
 
