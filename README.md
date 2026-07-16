@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🎬 NEW VIDEO - […they’re releasing WHAT?!?!? #anime #animation #persona #hololive #vtuber #persona6](https://www.youtube.com/shorts/95puMqaPmOM)
+🎬 NEW VIDEO - [my loudest scream yet all cuz of some GOLF #anime #animation #hololive #vtuber #envtuber](https://www.youtube.com/shorts/6-7XMGA-HoU)
 
-![封面](https://i3.ytimg.com/vi/95puMqaPmOM/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/6-7XMGA-HoU/maxresdefault.jpg)
 
 ---
 
