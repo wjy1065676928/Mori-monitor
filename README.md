@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🎬 NEW VIDEO - [my loudest scream yet all cuz of some GOLF #anime #animation #hololive #vtuber #envtuber](https://www.youtube.com/shorts/6-7XMGA-HoU)
+🎬 NEW VIDEO - [「Go-Getters」Live from『Mori Calliope 2nd Concert “Grimoire”』](https://www.youtube.com/watch?v=aYP-bbJ3isw)
 
-![封面](https://i3.ytimg.com/vi/6-7XMGA-HoU/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/aYP-bbJ3isw/maxresdefault.jpg)
 
 ---
 
