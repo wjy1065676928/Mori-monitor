@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🎬 NEW VIDEO - [「Go-Getters」Live from『Mori Calliope 2nd Concert “Grimoire”』](https://www.youtube.com/watch?v=aYP-bbJ3isw)
+🎬 NEW VIDEO - [Can you beat my song in #holodori ?!?](https://www.youtube.com/shorts/7ACt9yFf2jg)
 
-![封面](https://i3.ytimg.com/vi/aYP-bbJ3isw/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/7ACt9yFf2jg/maxresdefault.jpg)
 
 ---
 
