@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🎬 NEW VIDEO - [Can you beat my song in #holodori ?!?](https://www.youtube.com/shorts/7ACt9yFf2jg)
+🔴 LIVE (title) - [【member's only】catching up cuz it's been a million years #calliolive](https://www.youtube.com/watch?v=7cq2y8Ltoys)
 
-![封面](https://i3.ytimg.com/vi/7ACt9yFf2jg/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/7cq2y8Ltoys/maxresdefault.jpg)
 
 ---
 
