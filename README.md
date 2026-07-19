@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🎬 NEW VIDEO - [Can you beat my song in #holodori ?!?](https://www.youtube.com/shorts/7ACt9yFf2jg)
+🎬 NEW VIDEO - [bone to be waitress… #animation #storytime #hololive #anime #hololiveenglish #vtuber](https://www.youtube.com/shorts/VCnMcHVRBMk)
 
-![封面](https://i3.ytimg.com/vi/7ACt9yFf2jg/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/VCnMcHVRBMk/maxresdefault.jpg)
 
 ---
 
