@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🎬 NEW VIDEO - [bone to be waitress… #animation #storytime #hololive #anime #hololiveenglish #vtuber](https://www.youtube.com/shorts/VCnMcHVRBMk)
+🔴 LIVE (title) - [【hololive Dreams】Don't Fear the Reaper's Gacha Luck!!! #calliolive](https://www.youtube.com/watch?v=5kzu8bfpc0E)
 
-![封面](https://i3.ytimg.com/vi/VCnMcHVRBMk/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/5kzu8bfpc0E/maxresdefault.jpg)
 
 ---
 
