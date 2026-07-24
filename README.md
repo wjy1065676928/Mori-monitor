@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🔴 LIVE (title) - [【hololive Dreams】Don't Fear the Reaper's Gacha Luck!!! #calliolive](https://www.youtube.com/watch?v=5kzu8bfpc0E)
+🔴 LIVE (title) - [【UNARCHIVED ROCK & METAL KARAOKE】rip throat (re-broadcast) #calliolive](https://www.youtube.com/watch?v=71RbIturcnM)
 
-![封面](https://i3.ytimg.com/vi/5kzu8bfpc0E/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/71RbIturcnM/maxresdefault.jpg)
 
 ---
 
