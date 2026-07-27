@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🔴 LIVE (title) - [【hololive Dreams】Don't Fear the Reaper's Gacha Luck!!! #calliolive](https://www.youtube.com/watch?v=5kzu8bfpc0E)
+🎬 NEW VIDEO - [WHERE ARE THEY!?!? #mecchachameleon #hololive #anime #animation #vtuber](https://www.youtube.com/shorts/PnSbj0n238A)
 
-![封面](https://i3.ytimg.com/vi/5kzu8bfpc0E/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/PnSbj0n238A/maxresdefault.jpg)
 
 ---
 
