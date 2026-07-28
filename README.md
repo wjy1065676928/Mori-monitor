@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🎬 NEW VIDEO - [WHERE ARE THEY!?!? #mecchachameleon #hololive #anime #animation #vtuber](https://www.youtube.com/shorts/PnSbj0n238A)
+🔴 LIVE (title) - [【hololive Dreams】is that virtual rockstar mori calliope...?!?! #calliolive](https://www.youtube.com/watch?v=d0ce8qQxEhU)
 
-![封面](https://i3.ytimg.com/vi/PnSbj0n238A/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/d0ce8qQxEhU/maxresdefault.jpg)
 
 ---
 
