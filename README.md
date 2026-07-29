@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🔴 LIVE (title) - [【hololive Dreams】is that virtual rockstar mori calliope...?!?! #calliolive](https://www.youtube.com/watch?v=d0ce8qQxEhU)
+🔴 LIVE (title) - [mori calliope returns from summer vacation! #calliolive](https://www.youtube.com/watch?v=vhJlRuYCD98)
 
-![封面](https://i3.ytimg.com/vi/d0ce8qQxEhU/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/vhJlRuYCD98/maxresdefault.jpg)
 
 ---
 
