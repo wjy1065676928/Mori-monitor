@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🔴 LIVE (title) - [mori calliope returns from summer vacation! #calliolive](https://www.youtube.com/watch?v=vhJlRuYCD98)
+🎬 NEW VIDEO - [reaper’s school lunch #anime #storytime #animation #hololive #vtuber #envtuber](https://www.youtube.com/shorts/yQDC1FVm-YE)
 
-![封面](https://i3.ytimg.com/vi/vhJlRuYCD98/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/yQDC1FVm-YE/maxresdefault.jpg)
 
 ---
 
