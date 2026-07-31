@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🎬 NEW VIDEO - [reaper’s school lunch #anime #storytime #animation #hololive #vtuber #envtuber](https://www.youtube.com/shorts/yQDC1FVm-YE)
+🔴 LIVE (title) - [【American Truck Simulator: Texas】YEEHAW, CHUCKLEFIENDS, YEEHAW!!! #calliolive](https://www.youtube.com/watch?v=J3G4zr8LyFs)
 
-![封面](https://i3.ytimg.com/vi/yQDC1FVm-YE/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/J3G4zr8LyFs/maxresdefault.jpg)
 
 ---
 
