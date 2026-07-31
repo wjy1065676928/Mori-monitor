@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🔴 LIVE (title) - [【member's only】july concert is very freestyle w #calliolive](https://www.youtube.com/watch?v=HuSpy_RX1YI)
+🎬 NEW VIDEO - [reaper’s school lunch #anime #storytime #animation #hololive #vtuber #envtuber](https://www.youtube.com/shorts/yQDC1FVm-YE)
 
-![封面](https://i3.ytimg.com/vi/HuSpy_RX1YI/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/yQDC1FVm-YE/maxresdefault.jpg)
 
 ---
 
