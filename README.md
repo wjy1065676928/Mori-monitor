@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🔴 LIVE (title) - [【American Truck Simulator: Texas】YEEHAW, CHUCKLEFIENDS, YEEHAW!!! #calliolive](https://www.youtube.com/watch?v=J3G4zr8LyFs)
+🔴 LIVE (title) - [【hololive Dreams】is that virtual rockstar mori calliope...?!?! #calliolive](https://www.youtube.com/watch?v=d0ce8qQxEhU)
 
-![封面](https://i3.ytimg.com/vi/J3G4zr8LyFs/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/d0ce8qQxEhU/maxresdefault.jpg)
 
 ---
 
