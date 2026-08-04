@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🔴 LIVE (title) - [【hololive Dreams】a new mori calliope song?! after 5 years?!?!?!?! #calliolive](https://www.youtube.com/watch?v=S67vkAxw78k)
+🎬 NEW VIDEO - [english with mori sensei #animation #storytime #anime #hololive #vtuber](https://www.youtube.com/shorts/69Ok2UxdQ9M)
 
-![封面](https://i3.ytimg.com/vi/S67vkAxw78k/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/69Ok2UxdQ9M/maxresdefault.jpg)
 
 ---
 
