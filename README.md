@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🔴 LIVE (title) - [【hololive Dreams】is that virtual rockstar mori calliope...?!?! #calliolive](https://www.youtube.com/watch?v=d0ce8qQxEhU)
+🔴 LIVE (title) - [【hololive Dreams】a new mori calliope song?! after 5 years?!?!?!?! #calliolive](https://www.youtube.com/watch?v=S67vkAxw78k)
 
-![封面](https://i3.ytimg.com/vi/d0ce8qQxEhU/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/S67vkAxw78k/maxresdefault.jpg)
 
 ---
 
