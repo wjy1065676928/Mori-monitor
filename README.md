@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🎬 NEW VIDEO - [nobody does it like towamori!! plus ねねち on the vocals!! #dance #hololive #anime #vtuber](https://www.youtube.com/shorts/u70VzTl8kKQ)
+🔴 LIVE (title) - [【ZELDA: A LINK TO THE PAST】first ever zelda literally in my life #calliolive](https://www.youtube.com/watch?v=Z9FwBFOLIwc)
 
-![封面](https://i3.ytimg.com/vi/u70VzTl8kKQ/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/Z9FwBFOLIwc/maxresdefault.jpg)
 
 ---
 
