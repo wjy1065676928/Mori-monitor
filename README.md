@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🔴 LIVE (title) - [【ZELDA: A LINK TO THE PAST】first ever zelda literally in my life #calliolive](https://www.youtube.com/watch?v=Z9FwBFOLIwc)
+🎬 NEW VIDEO - [i love gigi murin #dance #hololive #anime #animation #vtuber #envtuber](https://www.youtube.com/shorts/ZLGL1xO7Pfo)
 
-![封面](https://i3.ytimg.com/vi/Z9FwBFOLIwc/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/ZLGL1xO7Pfo/maxresdefault.jpg)
 
 ---
 
