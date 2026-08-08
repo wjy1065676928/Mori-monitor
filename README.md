@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🔴 LIVE (title) - [【member's only】continuing to not look outside in Look Outside #calliolive](https://www.youtube.com/watch?v=ThyfEJ-h9Gs)
+🎬 NEW VIDEO - [i love gigi murin #dance #hololive #anime #animation #vtuber #envtuber](https://www.youtube.com/shorts/ZLGL1xO7Pfo)
 
-![封面](https://i3.ytimg.com/vi/ThyfEJ-h9Gs/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/ZLGL1xO7Pfo/maxresdefault.jpg)
 
 ---
 
