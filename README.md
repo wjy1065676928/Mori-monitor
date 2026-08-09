@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🎬 NEW VIDEO - [i love gigi murin #dance #hololive #anime #animation #vtuber #envtuber](https://www.youtube.com/shorts/ZLGL1xO7Pfo)
+🔴 LIVE (title) - [【ZELDA: A LINK TO THE PAST】zelda on a hot summer day (part 2) #calliolive](https://www.youtube.com/watch?v=kbd0tKchViM)
 
-![封面](https://i3.ytimg.com/vi/ZLGL1xO7Pfo/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/kbd0tKchViM/maxresdefault.jpg)
 
 ---
 
