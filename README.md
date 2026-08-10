@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🔴 LIVE (title) - [【ZELDA: A LINK TO THE PAST】zelda on a hot summer day (part 2) #calliolive](https://www.youtube.com/watch?v=kbd0tKchViM)
+🔴 LIVE (title) - [【Super Mario Party Jamboree 凸待ち！！】Waiting For Holomem to Join Lonely Calliope... #calliolive](https://www.youtube.com/watch?v=iY_CcwePejc)
 
-![封面](https://i3.ytimg.com/vi/kbd0tKchViM/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/iY_CcwePejc/maxresdefault.jpg)
 
 ---
 
