@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🔴 LIVE (title) - [【Super Mario Party Jamboree 凸待ち！！】Waiting For Holomem to Join Lonely Calliope... #calliolive](https://www.youtube.com/watch?v=iY_CcwePejc)
+🎬 NEW VIDEO - [kawaiiope escaped again…….. 「サキミダレアッパレード♪」  #dance #hololive #anime #vtuber](https://www.youtube.com/shorts/AqF4xUyDE70)
 
-![封面](https://i3.ytimg.com/vi/iY_CcwePejc/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/AqF4xUyDE70/maxresdefault.jpg)
 
 ---
 
