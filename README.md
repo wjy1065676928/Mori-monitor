@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🎬 NEW VIDEO - [kawaiiope escaped again…….. 「サキミダレアッパレード♪」  #dance #hololive #anime #vtuber](https://www.youtube.com/shorts/AqF4xUyDE70)
+🎬 NEW VIDEO - [little mori got scammed #anime #storytime #hololive #vtuber #envtuber](https://www.youtube.com/shorts/HpDT2lzfLCI)
 
-![封面](https://i3.ytimg.com/vi/AqF4xUyDE70/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/HpDT2lzfLCI/maxresdefault.jpg)
 
 ---
 
