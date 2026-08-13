@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🎬 NEW VIDEO - [little mori got scammed #anime #storytime #hololive #vtuber #envtuber](https://www.youtube.com/shorts/HpDT2lzfLCI)
+🔴 LIVE (title) - [【UNO】why not come play uno? ……ねえ、僕とUNOでもやらない？ #calliolive](https://www.youtube.com/watch?v=AOtO4qu82Mw)
 
-![封面](https://i3.ytimg.com/vi/HpDT2lzfLCI/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/AOtO4qu82Mw/maxresdefault.jpg)
 
 ---
 
