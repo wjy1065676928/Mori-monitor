@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🔴 LIVE (title) - [【UNO】why not come play uno? ……ねえ、僕とUNOでもやらない？ #calliolive](https://www.youtube.com/watch?v=AOtO4qu82Mw)
+🔴 LIVE (title) - [【pokajan】pokajan #calliolive](https://www.youtube.com/watch?v=7JhIlbotWpo)
 
-![封面](https://i3.ytimg.com/vi/AOtO4qu82Mw/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/7JhIlbotWpo/maxresdefault.jpg)
 
 ---
 
