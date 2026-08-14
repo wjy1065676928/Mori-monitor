@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🔴 LIVE (title) - [【pokajan】pokajan #calliolive](https://www.youtube.com/watch?v=7JhIlbotWpo)
+🔴 LIVE (title) - [【ZELDA: A LINK TO THE PAST】golly (part 3) #calliolive](https://www.youtube.com/watch?v=OjCksETbxpA)
 
-![封面](https://i3.ytimg.com/vi/7JhIlbotWpo/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/OjCksETbxpA/maxresdefault.jpg)
 
 ---
 
