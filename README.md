@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🔴 LIVE (title) - [【ZELDA: A LINK TO THE PAST】golly (part 3) #calliolive](https://www.youtube.com/watch?v=OjCksETbxpA)
+🔴 LIVE (title) - [【Big Walk Collab】walking my kouhai today #calliolive](https://www.youtube.com/watch?v=3ZdEw-ePZJ4)
 
-![封面](https://i3.ytimg.com/vi/OjCksETbxpA/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/3ZdEw-ePZJ4/maxresdefault.jpg)
 
 ---
 
