@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🔴 LIVE (title) - [【Castlevania: Symphony of the Night】hungry for wall chicken #calliolive](https://www.youtube.com/watch?v=q-YT1xx-Tbc)
+🔴 LIVE (title) - [【Venus Vacation PRISM - Dead or Alive Xtreme】hot girl summer is here (SPOILERS AHEAD) #calliolive](https://www.youtube.com/watch?v=1NZmJjzHpCc)
 
-![封面](https://i3.ytimg.com/vi/q-YT1xx-Tbc/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/1NZmJjzHpCc/maxresdefault.jpg)
 
 ---
 
