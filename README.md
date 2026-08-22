@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🎬 NEW VIDEO - [eff you kawaiiope #dance #lovemission #hololive #vtuber #envtuber](https://www.youtube.com/shorts/m0RQLX3JBP0)
+🔴 LIVE (title) - [【Venus Vacation PRISM - Dead or Alive Xtreme】hot girl summer is here (SPOILERS AHEAD) #calliolive](https://www.youtube.com/watch?v=1NZmJjzHpCc)
 
-![封面](https://i3.ytimg.com/vi/m0RQLX3JBP0/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/1NZmJjzHpCc/maxresdefault.jpg)
 
 ---
 
