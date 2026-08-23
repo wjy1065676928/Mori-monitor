@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🔴 LIVE (title) - [【Venus Vacation PRISM - Dead or Alive Xtreme】hot girl summer is here (SPOILERS AHEAD) #calliolive](https://www.youtube.com/watch?v=1NZmJjzHpCc)
+🔴 LIVE (title) - [【SPAGHET】...slap it? #calliolive](https://www.youtube.com/watch?v=X0dysEuXKdQ)
 
-![封面](https://i3.ytimg.com/vi/1NZmJjzHpCc/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/X0dysEuXKdQ/maxresdefault.jpg)
 
 ---
 
