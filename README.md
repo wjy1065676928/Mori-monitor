@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🔴 LIVE (title) - [【SPAGHET】...slap it? #calliolive](https://www.youtube.com/watch?v=X0dysEuXKdQ)
+🔴 LIVE (title) - [【DARK SOULS: REMASTERED】we're back, baby (level one challenge) #calliolive](https://www.youtube.com/watch?v=2MMBGfSm5e8)
 
-![封面](https://i3.ytimg.com/vi/X0dysEuXKdQ/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/2MMBGfSm5e8/maxresdefault.jpg)
 
 ---
 
