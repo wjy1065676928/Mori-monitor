@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🔴 LIVE (title) - [【DARK SOULS: REMASTERED】we're back, baby (level one challenge) #calliolive](https://www.youtube.com/watch?v=2MMBGfSm5e8)
+🔴 LIVE (title) - [【Castlevania: Symphony of the Night】hungry for wall chicken #calliolive](https://www.youtube.com/watch?v=q-YT1xx-Tbc)
 
-![封面](https://i3.ytimg.com/vi/2MMBGfSm5e8/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/q-YT1xx-Tbc/maxresdefault.jpg)
 
 ---
 
