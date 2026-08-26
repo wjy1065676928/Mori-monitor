@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🎬 NEW VIDEO - [the Mori story #anime #storytime #hololive #animation #vtuber #envtuber](https://www.youtube.com/shorts/xlUmqI42Jnw)
+🔴 LIVE (title) - [【ZELDA: OCARINA OF TIME】doo doo da. doo doo da. doo doo da da da. doo doo da da da. (1) #calliolive](https://www.youtube.com/watch?v=l94QriNGFok)
 
-![封面](https://i3.ytimg.com/vi/xlUmqI42Jnw/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/l94QriNGFok/maxresdefault.jpg)
 
 ---
 
