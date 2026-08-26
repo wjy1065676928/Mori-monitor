@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🔴 LIVE (title) - [【Castlevania: Symphony of the Night】hungry for wall chicken #calliolive](https://www.youtube.com/watch?v=q-YT1xx-Tbc)
+🎬 NEW VIDEO - [the Mori story #anime #storytime #hololive #animation #vtuber #envtuber](https://www.youtube.com/shorts/xlUmqI42Jnw)
 
-![封面](https://i3.ytimg.com/vi/q-YT1xx-Tbc/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/xlUmqI42Jnw/maxresdefault.jpg)
 
 ---
 
