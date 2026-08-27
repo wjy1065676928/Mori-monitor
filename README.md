@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🔴 LIVE (title) - [【ZELDA: OCARINA OF TIME】doo doo da. doo doo da. doo doo da da da. doo doo da da da. (1) #calliolive](https://www.youtube.com/watch?v=l94QriNGFok)
+🔴 LIVE (title) - [【member's only】we do be hangin' out and likely playing somethin' #calliolive](https://www.youtube.com/watch?v=Zc_ejvTWdHk)
 
-![封面](https://i3.ytimg.com/vi/l94QriNGFok/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/Zc_ejvTWdHk/maxresdefault.jpg)
 
 ---
 
