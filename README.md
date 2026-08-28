@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🔴 LIVE (title) - [【member's only】we do be hangin' out and likely playing somethin' #calliolive](https://www.youtube.com/watch?v=Zc_ejvTWdHk)
+🎬 NEW VIDEO - [mori’s leg day training routine #storytime #anime #animation #hololive #vtuber](https://www.youtube.com/shorts/si2imxk4-R8)
 
-![封面](https://i3.ytimg.com/vi/Zc_ejvTWdHk/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/si2imxk4-R8/maxresdefault.jpg)
 
 ---
 
