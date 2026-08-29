@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🎬 NEW VIDEO - [mori’s leg day training routine #storytime #anime #animation #hololive #vtuber](https://www.youtube.com/shorts/si2imxk4-R8)
+🎬 NEW VIDEO - [【MV】Here Comes the CHADCAST - (Mori Calliope, IRyS, Hakos Baelz)](https://www.youtube.com/watch?v=or6VC0FkOOw)
 
-![封面](https://i3.ytimg.com/vi/si2imxk4-R8/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/or6VC0FkOOw/maxresdefault.jpg)
 
 ---
 
