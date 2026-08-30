@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🔴 LIVE (title) - [【member's only】august concert!! #calliolive](https://www.youtube.com/watch?v=8uT6pxk29h0)
+🔴 LIVE (title) - [【ZELDA: OCARINA OF TIME】i bought an ocarina on amazon (2) #calliolive](https://www.youtube.com/watch?v=J91MV67aARg)
 
-![封面](https://i3.ytimg.com/vi/8uT6pxk29h0/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/J91MV67aARg/maxresdefault.jpg)
 
 ---
 
