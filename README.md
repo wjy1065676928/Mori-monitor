@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🎬 NEW VIDEO - [【MV】Here Comes the CHADCAST - (Mori Calliope, IRyS, Hakos Baelz)](https://www.youtube.com/watch?v=or6VC0FkOOw)
+🔴 LIVE (title) - [【ZELDA: OCARINA OF TIME】doo doo da. doo doo da. doo doo da da da. doo doo da da da. (1) #calliolive](https://www.youtube.com/watch?v=l94QriNGFok)
 
-![封面](https://i3.ytimg.com/vi/or6VC0FkOOw/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/l94QriNGFok/maxresdefault.jpg)
 
 ---
 
