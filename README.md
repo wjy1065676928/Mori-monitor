@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🔴 LIVE (title) - [【ZELDA: OCARINA OF TIME】i bought an ocarina on amazon (2) #calliolive](https://www.youtube.com/watch?v=J91MV67aARg)
+🔴 LIVE (title) - [【CHADCast】EPISODE 1 - we are back.  #calliolive #chadcast](https://www.youtube.com/watch?v=HZOSaPAIWYc)
 
-![封面](https://i3.ytimg.com/vi/J91MV67aARg/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/HZOSaPAIWYc/maxresdefault.jpg)
 
 ---
 
