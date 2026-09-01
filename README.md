@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🔴 LIVE (title) - [【CHADCast】EPISODE 1 - are babies made of microplastics?  #calliolive #chadcast](https://www.youtube.com/watch?v=HZOSaPAIWYc)
+🔴 LIVE (title) - [【3D KARAOKE】last singing this summer! with...an announcement?! #calliolive](https://www.youtube.com/watch?v=N5CW6lmWho4)
 
-![封面](https://i3.ytimg.com/vi/HZOSaPAIWYc/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/N5CW6lmWho4/maxresdefault.jpg)
 
 ---
 
