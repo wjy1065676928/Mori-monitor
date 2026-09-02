@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🔴 LIVE (title) - [【ZELDA: OCARINA OF TIME】i bought an ocarina on amazon (2) #calliolive](https://www.youtube.com/watch?v=J91MV67aARg)
+🔴 LIVE (title) - [【Castlevania: Symphony of the Night】95 percent chance of dracula sighting today (final?) #calliolive](https://www.youtube.com/watch?v=gZD9djeqFzE)
 
-![封面](https://i3.ytimg.com/vi/J91MV67aARg/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/gZD9djeqFzE/maxresdefault.jpg)
 
 ---
 
