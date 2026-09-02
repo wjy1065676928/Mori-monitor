@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🔴 LIVE (title) - [【3D KARAOKE】last singing this summer! with...an announcement?! #calliolive](https://www.youtube.com/watch?v=N5CW6lmWho4)
+🔴 LIVE (title) - [【ZELDA: OCARINA OF TIME】i bought an ocarina on amazon (2) #calliolive](https://www.youtube.com/watch?v=J91MV67aARg)
 
-![封面](https://i3.ytimg.com/vi/N5CW6lmWho4/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/J91MV67aARg/maxresdefault.jpg)
 
 ---
 
