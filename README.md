@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🔴 LIVE (title) - [【Castlevania: Symphony of the Night】95 percent chance of dracula sighting today (final?) #calliolive](https://www.youtube.com/watch?v=gZD9djeqFzE)
+🔴 LIVE (title) - [【ELDEN RING】just tarnished things. with @girldm #calliolive](https://www.youtube.com/watch?v=YCPYk8k2lCk)
 
-![封面](https://i3.ytimg.com/vi/gZD9djeqFzE/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/YCPYk8k2lCk/maxresdefault.jpg)
 
 ---
 
