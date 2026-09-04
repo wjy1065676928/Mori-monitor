@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🔴 LIVE (title) - [【ELDEN RING】just tarnished things. with @girldm #calliolive](https://www.youtube.com/watch?v=YCPYk8k2lCk)
+🎬 NEW VIDEO - [hey mom I’m on tv! #storytime #anime #animation #hololive #vtuber](https://www.youtube.com/shorts/FfxsZktvAYc)
 
-![封面](https://i3.ytimg.com/vi/YCPYk8k2lCk/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/FfxsZktvAYc/maxresdefault.jpg)
 
 ---
 
