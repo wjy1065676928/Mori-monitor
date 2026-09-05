@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🎬 NEW VIDEO - [hey mom I’m on tv! #storytime #anime #animation #hololive #vtuber](https://www.youtube.com/shorts/FfxsZktvAYc)
+🔴 LIVE (title) - [【Castlevania: Symphony of the Night】95 percent chance of dracula sighting today (final?) #calliolive](https://www.youtube.com/watch?v=gZD9djeqFzE)
 
-![封面](https://i3.ytimg.com/vi/FfxsZktvAYc/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/gZD9djeqFzE/maxresdefault.jpg)
 
 ---
 
