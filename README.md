@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🔴 LIVE (title) - [【ZELDA: OCARINA OF TIME】fih (part 3) #calliolive](https://www.youtube.com/watch?v=btaAS9ezB9o)
+🔴 LIVE (title) - [【hololive Next 2026.9.7】quick watch-a-long #calliolive](https://www.youtube.com/watch?v=rTXpfojIBxA)
 
-![封面](https://i3.ytimg.com/vi/btaAS9ezB9o/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/rTXpfojIBxA/maxresdefault.jpg)
 
 ---
 
