@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🎬 NEW VIDEO - [mori’s upper body training routine #storytime #anime #animation #hololive #vtuber](https://www.youtube.com/shorts/6RZJBeRAszs)
+🔴 LIVE (title) - [【ZELDA: OCARINA OF TIME】fih (part 3) #calliolive](https://www.youtube.com/watch?v=btaAS9ezB9o)
 
-![封面](https://i3.ytimg.com/vi/6RZJBeRAszs/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/btaAS9ezB9o/maxresdefault.jpg)
 
 ---
 
