@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🔴 LIVE (title) - [【3D KARAOKE】last singing this summer! with...an announcement?! #calliolive](https://www.youtube.com/watch?v=N5CW6lmWho4)
+🎬 NEW VIDEO - [mori’s upper body training routine #storytime #anime #animation #hololive #vtuber](https://www.youtube.com/shorts/6RZJBeRAszs)
 
-![封面](https://i3.ytimg.com/vi/N5CW6lmWho4/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/6RZJBeRAszs/maxresdefault.jpg)
 
 ---
 
