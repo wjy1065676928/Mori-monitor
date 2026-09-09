@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🔴 LIVE (title) - [【ZELDA: OCARINA OF TIME】fih (part 3) #calliolive](https://www.youtube.com/watch?v=btaAS9ezB9o)
+🎬 NEW VIDEO - [the quest for sproinkle sandwich #anime #storytime #animation #hololive #vtuber](https://www.youtube.com/shorts/yeRFyNwakUk)
 
-![封面](https://i3.ytimg.com/vi/btaAS9ezB9o/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/yeRFyNwakUk/maxresdefault.jpg)
 
 ---
 
