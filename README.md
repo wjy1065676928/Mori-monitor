@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🎬 NEW VIDEO - [the quest for sproinkle sandwich #anime #storytime #animation #hololive #vtuber](https://www.youtube.com/shorts/yeRFyNwakUk)
+🔴 LIVE (title) - [【BOMBANANA!】gigi made the thumbnail #calliolive](https://www.youtube.com/watch?v=APCP5OpOixE)
 
-![封面](https://i3.ytimg.com/vi/yeRFyNwakUk/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/APCP5OpOixE/maxresdefault.jpg)
 
 ---
 
