@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🔴 LIVE (title) - [【member's only】traversing more nightmares in look outside #calliolive](https://www.youtube.com/watch?v=Pn57-Ur31EU)
+🔴 LIVE (title) - [【God Hand】merry fist-mas #calliolive](https://www.youtube.com/watch?v=Gm-M8sqRhw0)
 
-![封面](https://i3.ytimg.com/vi/Pn57-Ur31EU/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/Gm-M8sqRhw0/maxresdefault.jpg)
 
 ---
 
