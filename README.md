@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🔴 LIVE (title) - [【BOMBANANA!】gigi made the thumbnail #calliolive](https://www.youtube.com/watch?v=APCP5OpOixE)
+🔴 LIVE (title) - [【member's only】traversing more nightmares in look outside #calliolive](https://www.youtube.com/watch?v=Pn57-Ur31EU)
 
-![封面](https://i3.ytimg.com/vi/APCP5OpOixE/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/Pn57-Ur31EU/maxresdefault.jpg)
 
 ---
 
