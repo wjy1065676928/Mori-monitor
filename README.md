@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🔴 LIVE (title) - [【God Hand】merry fist-mas #calliolive](https://www.youtube.com/watch?v=Gm-M8sqRhw0)
+🔴 LIVE (title) - [【英会話 ENGLISH TIME!】Let's! Speak! English! Today's theme is....?! #calliolive](https://www.youtube.com/watch?v=0uuGlURu9cw)
 
-![封面](https://i3.ytimg.com/vi/Gm-M8sqRhw0/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/0uuGlURu9cw/maxresdefault.jpg)
 
 ---
 
