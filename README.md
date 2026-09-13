@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🔴 LIVE (title) - [【英会話 ENGLISH TIME!】Let's! Speak! English! Today's theme is....?! #calliolive](https://www.youtube.com/watch?v=0uuGlURu9cw)
+🎬 NEW VIDEO - [It’s our time?! New MV “黎明Compass” out now!! #dance #music #hololive #patlabor](https://www.youtube.com/shorts/OS_UM1YjEDM)
 
-![封面](https://i3.ytimg.com/vi/0uuGlURu9cw/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/OS_UM1YjEDM/maxresdefault.jpg)
 
 ---
 
