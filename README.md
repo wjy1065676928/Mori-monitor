@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🎬 NEW VIDEO - [It’s our time?! New MV “黎明Compass” out now!! #dance #music #hololive #patlabor](https://www.youtube.com/shorts/OS_UM1YjEDM)
+🔴 LIVE (title) - [【God Hand】merry fist-mas #calliolive](https://www.youtube.com/watch?v=Gm-M8sqRhw0)
 
-![封面](https://i3.ytimg.com/vi/OS_UM1YjEDM/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/Gm-M8sqRhw0/maxresdefault.jpg)
 
 ---
 
