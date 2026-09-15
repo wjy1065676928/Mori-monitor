@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🔴 LIVE (title) - [【God Hand】merry fist-mas #calliolive](https://www.youtube.com/watch?v=Gm-M8sqRhw0)
+🔴 LIVE (title) - [【ZELDA: OCARINA OF TIME】i can keep playing.... (part 4) #calliolive](https://www.youtube.com/watch?v=A5H2cZw1Nzs)
 
-![封面](https://i3.ytimg.com/vi/Gm-M8sqRhw0/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/A5H2cZw1Nzs/maxresdefault.jpg)
 
 ---
 
