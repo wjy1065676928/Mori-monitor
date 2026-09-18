@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🔴 LIVE (title) - [【Persona 4 Revival TV】mirrored watch-a-long!! p4 revival news?! #calliolive #PR](https://www.youtube.com/watch?v=_DinkDYce_c)
+🔴 LIVE (title) - [【Crash Bash】I Assembled a Team to Beat My First Ever Video Game.... #calliolive](https://www.youtube.com/watch?v=aFyzB4Kqego)
 
-![封面](https://i3.ytimg.com/vi/_DinkDYce_c/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/aFyzB4Kqego/maxresdefault.jpg)
 
 ---
 
