@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🔴 LIVE (title) - [【BANANAGRAMS】yummy words with Nerissa. (handcam off-collab) #calliolive](https://www.youtube.com/watch?v=ZDr09XLVGVc)
+🔴 LIVE (title) - [【Persona 4 Revival TV】mirrored watch-a-long!! p4 revival news?! #calliolive #PR](https://www.youtube.com/watch?v=_DinkDYce_c)
 
-![封面](https://i3.ytimg.com/vi/ZDr09XLVGVc/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/_DinkDYce_c/maxresdefault.jpg)
 
 ---
 
