@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🔴 LIVE (title) - [【Persona 4 Revival TV】mirrored watch-a-long!! p4 revival news?! #calliolive #PR](https://www.youtube.com/watch?v=_DinkDYce_c)
+🔴 LIVE (title) - [【member's only】can't get enough of this game (look outside) #calliolive](https://www.youtube.com/watch?v=8hdi7QizDVc)
 
-![封面](https://i3.ytimg.com/vi/_DinkDYce_c/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/8hdi7QizDVc/maxresdefault.jpg)
 
 ---
 
