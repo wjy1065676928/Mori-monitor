@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🔴 LIVE (title) - [【Persona 4 Revival TV】mirrored watch-a-long!! p4 revival news?! #calliolive #PR](https://www.youtube.com/watch?v=_DinkDYce_c)
+🎬 NEW VIDEO - [im with child #animation #anime #storytime #hololive #vtuber](https://www.youtube.com/shorts/1zjqJVNCmqU)
 
-![封面](https://i3.ytimg.com/vi/_DinkDYce_c/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/1zjqJVNCmqU/maxresdefault.jpg)
 
 ---
 
