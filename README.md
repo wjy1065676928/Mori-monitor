@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🎬 NEW VIDEO - [im with child #animation #anime #storytime #hololive #vtuber](https://www.youtube.com/shorts/1zjqJVNCmqU)
+🎬 NEW VIDEO - [oshi a rat #animation #anime #hololive #vtuber #envtuber](https://www.youtube.com/shorts/GfgExP3YS2c)
 
-![封面](https://i3.ytimg.com/vi/1zjqJVNCmqU/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/GfgExP3YS2c/maxresdefault.jpg)
 
 ---
 
