@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🎬 NEW VIDEO - [oshi a rat #animation #anime #hololive #vtuber #envtuber](https://www.youtube.com/shorts/GfgExP3YS2c)
+🔴 LIVE (title) - [【ZELDA: OCARINA OF TIME】spitting fire in the spit temple (part 5) #calliolive](https://www.youtube.com/watch?v=K4akfqw3smE)
 
-![封面](https://i3.ytimg.com/vi/GfgExP3YS2c/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/K4akfqw3smE/maxresdefault.jpg)
 
 ---
 
