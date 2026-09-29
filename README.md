@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🔴 LIVE (title) - [【ZELDA: OCARINA OF TIME】spitting fire in the spit temple (part 5) #calliolive](https://www.youtube.com/watch?v=K4akfqw3smE)
+🔴 LIVE (title) - [【hololive Dreams】bingo bango bongo. #calliolive #holodori](https://www.youtube.com/watch?v=ASIjjf6jKUg)
 
-![封面](https://i3.ytimg.com/vi/K4akfqw3smE/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/ASIjjf6jKUg/maxresdefault.jpg)
 
 ---
 
