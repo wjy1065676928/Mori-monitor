@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🔴 LIVE (title) - [【hololive Dreams】bingo bango bongo. #calliolive #holodori](https://www.youtube.com/watch?v=ASIjjf6jKUg)
+🎬 NEW VIDEO - [are babies made of microplastics? #hololive #chadcast #anime #animation #podcast #vtuber](https://www.youtube.com/shorts/FBzhfRM8f0Y)
 
-![封面](https://i3.ytimg.com/vi/ASIjjf6jKUg/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/FBzhfRM8f0Y/maxresdefault.jpg)
 
 ---
 
