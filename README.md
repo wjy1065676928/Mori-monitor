@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🎬 NEW VIDEO - [are babies made of microplastics? #hololive #chadcast #anime #animation #podcast #vtuber](https://www.youtube.com/shorts/FBzhfRM8f0Y)
+🎬 NEW VIDEO - [the truth about muscle training is… #storytime #anime #animation #hololive #vtuber](https://www.youtube.com/shorts/ykeElX_3QSg)
 
-![封面](https://i3.ytimg.com/vi/FBzhfRM8f0Y/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/ykeElX_3QSg/maxresdefault.jpg)
 
 ---
 
