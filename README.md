@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🎬 NEW VIDEO - [the truth about muscle training is… #storytime #anime #animation #hololive #vtuber](https://www.youtube.com/shorts/ykeElX_3QSg)
+🔴 LIVE (title) - [【 #ホロドリ 】始めて日本語ホロドリ配信！！ヤッホ～！ #calliolive #holodori](https://www.youtube.com/watch?v=gVJebtLfcdE)
 
-![封面](https://i3.ytimg.com/vi/ykeElX_3QSg/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/gVJebtLfcdE/maxresdefault.jpg)
 
 ---
 
