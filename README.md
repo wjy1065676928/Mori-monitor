@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🔴 LIVE (title) - [【 #ホロドリ 】始めて日本語ホロドリ配信！！ヤッホ～！ #calliolive #holodori](https://www.youtube.com/watch?v=gVJebtLfcdE)
+🔴 LIVE (title) - [【hololive Dreams】dreams of gigi murin #calliolive #holodori](https://www.youtube.com/watch?v=yUsPfDw6hEw)
 
-![封面](https://i3.ytimg.com/vi/gVJebtLfcdE/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/yUsPfDw6hEw/maxresdefault.jpg)
 
 ---
 
