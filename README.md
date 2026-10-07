@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🔴 LIVE (title) - [【hololive Dreams】dreams of gigi murin #calliolive #holodori](https://www.youtube.com/watch?v=yUsPfDw6hEw)
+🔴 LIVE (title) - [【hi】hello!! chatting and reading anniversary messages!!! in raku! #calliolive](https://www.youtube.com/watch?v=73TXdhcOIL4)
 
-![封面](https://i3.ytimg.com/vi/yUsPfDw6hEw/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/73TXdhcOIL4/maxresdefault.jpg)
 
 ---
 
