@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🔴 LIVE (title) - [【hi】hello!! chatting and reading anniversary messages!!! in raku! #calliolive](https://www.youtube.com/watch?v=73TXdhcOIL4)
+🔴 LIVE (title) - [【ZELDA: OCARINA OF TIME】tater wemple (part 6) #calliolive](https://www.youtube.com/watch?v=pvoF6UyXYNI)
 
-![封面](https://i3.ytimg.com/vi/73TXdhcOIL4/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/pvoF6UyXYNI/maxresdefault.jpg)
 
 ---
 
