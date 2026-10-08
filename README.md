@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🔴 LIVE (title) - [【ZELDA: OCARINA OF TIME】tater wemple (part 6) #calliolive](https://www.youtube.com/watch?v=pvoF6UyXYNI)
+🔴 LIVE (title) - [【ZELDA: OCARINA OF TIME】hydrated. thriving. a survivor. (part 7) #calliolive](https://www.youtube.com/watch?v=ohHabiPPiFY)
 
-![封面](https://i3.ytimg.com/vi/pvoF6UyXYNI/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/ohHabiPPiFY/maxresdefault.jpg)
 
 ---
 
