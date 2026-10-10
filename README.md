@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🔴 LIVE (title) - [【hololive Dreams】fashionlliope morrison plays lots of songs today #calliolive #holodori](https://www.youtube.com/watch?v=rYAixab3HZ0)
+🔴 LIVE (title) - [【ZELDA: OCARINA OF TIME】hydrated. thriving. a survivor. (part 7) #calliolive](https://www.youtube.com/watch?v=ohHabiPPiFY)
 
-![封面](https://i3.ytimg.com/vi/rYAixab3HZ0/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/ohHabiPPiFY/maxresdefault.jpg)
 
 ---
 
