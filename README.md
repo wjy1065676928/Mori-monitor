@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🔴 LIVE (title) - [【ZELDA: OCARINA OF TIME】hydrated. thriving. a survivor. (part 7) #calliolive](https://www.youtube.com/watch?v=ohHabiPPiFY)
+🔴 LIVE (title) - [【SIGNALIS】atmospheric horror game to mix it up a lil (part 1) #calliolive](https://www.youtube.com/watch?v=RdaWhu97HqA)
 
-![封面](https://i3.ytimg.com/vi/ohHabiPPiFY/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/RdaWhu97HqA/maxresdefault.jpg)
 
 ---
 
