@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🔴 LIVE (title) - [【SIGNALIS】atmospheric horror game to mix it up a lil (part 1) #calliolive](https://www.youtube.com/watch?v=RdaWhu97HqA)
+🔴 LIVE (title) - [【hololive Dreams】rocking in with biboo today #calliolive #holodori](https://www.youtube.com/watch?v=t4b9y5XGlw8)
 
-![封面](https://i3.ytimg.com/vi/RdaWhu97HqA/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/t4b9y5XGlw8/maxresdefault.jpg)
 
 ---
 
