@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🔴 LIVE (title) - [【hololive Dreams】rocking in with biboo today #calliolive #holodori](https://www.youtube.com/watch?v=t4b9y5XGlw8)
+🔴 LIVE (title) - [【hololive Dreams】CHAT WITH RAT!!! #calliolive #holodori](https://www.youtube.com/watch?v=2Rx1Nx1cNlg)
 
-![封面](https://i3.ytimg.com/vi/t4b9y5XGlw8/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/2Rx1Nx1cNlg/maxresdefault.jpg)
 
 ---
 
