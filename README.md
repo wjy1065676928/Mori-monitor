@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🔴 LIVE (title) - [【hololive Dreams】CHAT WITH RAT!!! #calliolive #holodori](https://www.youtube.com/watch?v=2Rx1Nx1cNlg)
+🔴 LIVE (title) - [【ZELDA: OCARINA OF TIME】what a journey!!! (part 8) #calliolive](https://www.youtube.com/watch?v=d_RYISTapbo)
 
-![封面](https://i3.ytimg.com/vi/2Rx1Nx1cNlg/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/d_RYISTapbo/maxresdefault.jpg)
 
 ---
 
