@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🔴 LIVE (title) - [【SIGNALIS】i wanna remember but i have a bad memory (part 2) #calliolive](https://www.youtube.com/watch?v=jcDQsEftkpk)
+🔴 LIVE (title) - [【hololive Dreams】bothering her #calliolive #holodori](https://www.youtube.com/watch?v=TyIpkqjl7mU)
 
-![封面](https://i3.ytimg.com/vi/jcDQsEftkpk/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/TyIpkqjl7mU/maxresdefault.jpg)
 
 ---
 
