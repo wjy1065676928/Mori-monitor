@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🔴 LIVE (title) - [【ZELDA: OCARINA OF TIME】what a journey!!! (part 8) #calliolive](https://www.youtube.com/watch?v=d_RYISTapbo)
+🔴 LIVE (title) - [【SIGNALIS】i wanna remember but i have a bad memory (part 2) #calliolive](https://www.youtube.com/watch?v=jcDQsEftkpk)
 
-![封面](https://i3.ytimg.com/vi/d_RYISTapbo/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/jcDQsEftkpk/maxresdefault.jpg)
 
 ---
 
