@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🔴 LIVE (title) - [【hololive Dreams】bothering her #calliolive #holodori](https://www.youtube.com/watch?v=TyIpkqjl7mU)
+🔴 LIVE (title) - [【Elden Ring】pwincess.......... (with girlDM) #calliolive](https://www.youtube.com/watch?v=PShNTkv1j98)
 
-![封面](https://i3.ytimg.com/vi/TyIpkqjl7mU/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/PShNTkv1j98/maxresdefault.jpg)
 
 ---
 
