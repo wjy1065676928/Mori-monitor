@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🔴 LIVE (title) - [【ホロドリ】ヴィヴィちゃんと話して、日本語を上達させよう！！ #calliolive #holodori #ホロドリ](https://www.youtube.com/watch?v=jEVsTmNEwb0)
+🎬 NEW VIDEO - [今日もがんばれ！！！#hololive #anime #animation #meme #dance](https://www.youtube.com/shorts/4UK6DAq9jdw)
 
-![封面](https://i3.ytimg.com/vi/jEVsTmNEwb0/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/4UK6DAq9jdw/maxresdefault.jpg)
 
 ---
 
