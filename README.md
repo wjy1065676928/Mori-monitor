@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🔴 LIVE (title) - [【Elden Ring】pwincess.......... (with girlDM) #calliolive](https://www.youtube.com/watch?v=PShNTkv1j98)
+🔴 LIVE (title) - [【ZELDA: OCARINA OF TIME】oh boy!!!! I CAN'T WAIT TO (finale) #calliolive](https://www.youtube.com/watch?v=T6_IJ4YMW5k)
 
-![封面](https://i3.ytimg.com/vi/PShNTkv1j98/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/T6_IJ4YMW5k/maxresdefault.jpg)
 
 ---
 
