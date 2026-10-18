@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🔴 LIVE (title) - [【ZELDA: OCARINA OF TIME】oh boy!!!! I CAN'T WAIT TO (finale) #calliolive](https://www.youtube.com/watch?v=T6_IJ4YMW5k)
+🔴 LIVE (title) - [【ホロドリ】ヴィヴィちゃんと話して、日本語を上達させよう！！ #calliolive #holodori #ホロドリ](https://www.youtube.com/watch?v=jEVsTmNEwb0)
 
-![封面](https://i3.ytimg.com/vi/T6_IJ4YMW5k/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/jEVsTmNEwb0/maxresdefault.jpg)
 
 ---
 
