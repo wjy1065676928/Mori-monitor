@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🎬 NEW VIDEO - [when the DM becomes a player…finally!! #ShatteredLegends #hololive #criticalrole](https://www.youtube.com/shorts/4Jer5T6UqeM)
+🔴 LIVE (title) - [【hololive Dreams】just grinding songs tonight #calliolive #holodori](https://www.youtube.com/watch?v=C4oi8InF-ls)
 
-![封面](https://i3.ytimg.com/vi/4Jer5T6UqeM/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/C4oi8InF-ls/maxresdefault.jpg)
 
 ---
 
