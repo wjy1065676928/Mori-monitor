@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🎬 NEW VIDEO - [今日もがんばれ！！！#hololive #anime #animation #meme #dance](https://www.youtube.com/shorts/4UK6DAq9jdw)
+🎬 NEW VIDEO - [when the DM becomes a player…finally!! #ShatteredLegends #hololive #criticalrole](https://www.youtube.com/shorts/4Jer5T6UqeM)
 
-![封面](https://i3.ytimg.com/vi/4UK6DAq9jdw/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/4Jer5T6UqeM/maxresdefault.jpg)
 
 ---
 
