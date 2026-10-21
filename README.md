@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🔴 LIVE (title) - [【ZELDA: OCARINA OF TIME】oh boy!!!! I CAN'T WAIT TO (finale) #calliolive](https://www.youtube.com/watch?v=T6_IJ4YMW5k)
+🎬 NEW VIDEO - [when biboo hijack my body #anime #hololive #animation #envtuber #vtuber](https://www.youtube.com/shorts/j3tGcGZUScw)
 
-![封面](https://i3.ytimg.com/vi/T6_IJ4YMW5k/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/j3tGcGZUScw/maxresdefault.jpg)
 
 ---
 
