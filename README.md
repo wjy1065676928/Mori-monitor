@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🎬 NEW VIDEO - [when biboo hijack my body #anime #hololive #animation #envtuber #vtuber](https://www.youtube.com/shorts/j3tGcGZUScw)
+🔴 LIVE (title) - [【Silent Hill: Townfall】repent for your sins gigi murin #calliolive](https://www.youtube.com/watch?v=kM1ye6qHA5Y)
 
-![封面](https://i3.ytimg.com/vi/j3tGcGZUScw/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/kM1ye6qHA5Y/maxresdefault.jpg)
 
 ---
 
