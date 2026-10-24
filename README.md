@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🔴 LIVE (title) - [【SIGNALIS】remember (part 3) #calliolive](https://www.youtube.com/watch?v=V9Evq2RBJ2A)
+🔴 LIVE (title) - [【JUMP KING】hardest map and big announcement!! #calliolive](https://www.youtube.com/watch?v=Z0v1VmKlHuQ)
 
-![封面](https://i3.ytimg.com/vi/V9Evq2RBJ2A/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/Z0v1VmKlHuQ/maxresdefault.jpg)
 
 ---
 
