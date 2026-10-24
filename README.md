@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🔴 LIVE (title) - [【BIG COLLAB】just some board games!! #calliolive](https://www.youtube.com/watch?v=-7351WjdU3M)
+🔴 LIVE (title) - [【SIGNALIS】remember (part 3) #calliolive](https://www.youtube.com/watch?v=V9Evq2RBJ2A)
 
-![封面](https://i3.ytimg.com/vi/-7351WjdU3M/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/V9Evq2RBJ2A/maxresdefault.jpg)
 
 ---
 
