@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🔴 LIVE (title) - [【JUMP KING】hardest map and big announcement!! #calliolive](https://www.youtube.com/watch?v=Z0v1VmKlHuQ)
+🔴 LIVE (title) - [【BIG COLLAB】just some board games!! #calliolive](https://www.youtube.com/watch?v=-7351WjdU3M)
 
-![封面](https://i3.ytimg.com/vi/Z0v1VmKlHuQ/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/-7351WjdU3M/maxresdefault.jpg)
 
 ---
 
