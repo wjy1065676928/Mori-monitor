@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🔴 LIVE (title) - [【BIG COLLAB】just some board games!! #calliolive](https://www.youtube.com/watch?v=-7351WjdU3M)
+🔴 LIVE (title) - [【Silent Hill: Townfall】repent for your sins gigi murin (SPOILERS!!) #calliolive](https://www.youtube.com/watch?v=kM1ye6qHA5Y)
 
-![封面](https://i3.ytimg.com/vi/-7351WjdU3M/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/kM1ye6qHA5Y/maxresdefault.jpg)
 
 ---
 
