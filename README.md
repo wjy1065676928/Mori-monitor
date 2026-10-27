@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🔴 LIVE (title) - [【Silent Hill: Townfall】repent for your sins gigi murin (SPOILERS!!) #calliolive](https://www.youtube.com/watch?v=kM1ye6qHA5Y)
+🔴 LIVE (title) - [【MEMBER'S ONLY】October Concert!! Testing NEW SETUPS.... #calliolive](https://www.youtube.com/watch?v=e8Nfg7p8Q1c)
 
-![封面](https://i3.ytimg.com/vi/kM1ye6qHA5Y/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/e8Nfg7p8Q1c/maxresdefault.jpg)
 
 ---
 
