@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🔴 LIVE (title) - [【MEMBER'S ONLY】October Concert!! Testing NEW SETUPS.... #calliolive](https://www.youtube.com/watch?v=e8Nfg7p8Q1c)
+🔴 LIVE (title) - [【Granblue Fantasy Versus: Rising】where is sand dolphin #PR #calliolive](https://www.youtube.com/watch?v=pRIJRmI4YZM)
 
-![封面](https://i3.ytimg.com/vi/e8Nfg7p8Q1c/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/pRIJRmI4YZM/maxresdefault.jpg)
 
 ---
 
