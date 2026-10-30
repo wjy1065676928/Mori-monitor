@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🎬 NEW VIDEO - [forget kawaiiope, I’M dancing to the cutest song ever…. #dance #hololive #anime #vtuber](https://www.youtube.com/shorts/2ViX_GxT--4)
+🔴 LIVE (title) - [【JUMP KING HOLORACE】Newbie Jumpers RACE TO THE TOP! Fabulous Prizes Await! #calliolive #holorace2026](https://www.youtube.com/watch?v=b6mcVgI0JjY)
 
-![封面](https://i3.ytimg.com/vi/2ViX_GxT--4/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/b6mcVgI0JjY/maxresdefault.jpg)
 
 ---
 
