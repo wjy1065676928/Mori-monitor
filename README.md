@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🔴 LIVE (title) - [【JUMP KING HOLORACE】Newbie Jumpers RACE TO THE TOP! Fabulous Prizes Await! #calliolive #holorace2026](https://www.youtube.com/watch?v=b6mcVgI0JjY)
+🎬 NEW VIDEO - [you’d do anything for senpai, right? #holoKitchen #hololive #anime #vtuber](https://www.youtube.com/shorts/8ZJwaJVJBSI)
 
-![封面](https://i3.ytimg.com/vi/b6mcVgI0JjY/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/8ZJwaJVJBSI/maxresdefault.jpg)
 
 ---
 
