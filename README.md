@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🎬 NEW VIDEO - [洗脳 (Brainwashed) - Mori Calliope (cover)](https://www.youtube.com/watch?v=zHorAsW9mPQ)
+🎬 NEW VIDEO - [I HAVE A JOKE FOR YOU. #halloween #hololive #anime #vtuber](https://www.youtube.com/shorts/g60ws7KwfmY)
 
-![封面](https://i3.ytimg.com/vi/zHorAsW9mPQ/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/g60ws7KwfmY/maxresdefault.jpg)
 
 ---
 
