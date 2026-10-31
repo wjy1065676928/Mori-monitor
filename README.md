@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🎬 NEW VIDEO - [you’d do anything for senpai, right? #holoKitchen #hololive #anime #vtuber](https://www.youtube.com/shorts/8ZJwaJVJBSI)
+🎬 NEW VIDEO - [洗脳 (Brainwashed) - Mori Calliope (cover)](https://www.youtube.com/watch?v=zHorAsW9mPQ)
 
-![封面](https://i3.ytimg.com/vi/8ZJwaJVJBSI/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/zHorAsW9mPQ/maxresdefault.jpg)
 
 ---
 
