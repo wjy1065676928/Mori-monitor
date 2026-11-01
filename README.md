@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🎬 NEW VIDEO - [I HAVE A JOKE FOR YOU. #halloween #hololive #anime #vtuber](https://www.youtube.com/shorts/g60ws7KwfmY)
+🔴 LIVE (title) - [【ZELDA: MAJORA'S MASK】the sky is falling, baby #calliolive](https://www.youtube.com/watch?v=qnLXx1-mOr0)
 
-![封面](https://i3.ytimg.com/vi/g60ws7KwfmY/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/qnLXx1-mOr0/maxresdefault.jpg)
 
 ---
 
