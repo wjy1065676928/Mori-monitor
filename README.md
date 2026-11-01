@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🔴 LIVE (title) - [【ZELDA: MAJORA'S MASK】the sky is falling, baby #calliolive](https://www.youtube.com/watch?v=qnLXx1-mOr0)
+🔴 LIVE (title) - [【ZELDA: MAJORA'S MASK】im just a lil deku scrub guy!! (part 2) #calliolive](https://www.youtube.com/watch?v=5htZJ4LI_1M)
 
-![封面](https://i3.ytimg.com/vi/qnLXx1-mOr0/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/5htZJ4LI_1M/maxresdefault.jpg)
 
 ---
 
