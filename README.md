@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🔴 LIVE (title) - [【ZELDA: MAJORA'S MASK】I Think the Mask Vendor is Hot (part 3) #calliolive](https://www.youtube.com/watch?v=bY7R4O4Eruk)
+🎬 NEW VIDEO - [the waffle house kidnapping story #story #anime #hololive #storytime #vtuber](https://www.youtube.com/shorts/MSWGF2IAVVs)
 
-![封面](https://i3.ytimg.com/vi/bY7R4O4Eruk/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/MSWGF2IAVVs/maxresdefault.jpg)
 
 ---
 
