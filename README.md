@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🎬 NEW VIDEO - [the waffle house kidnapping story #story #anime #hololive #storytime #vtuber](https://www.youtube.com/shorts/MSWGF2IAVVs)
+🎬 NEW VIDEO - [rock lickers #anime #hololive #animation #vtuber #envtuber](https://www.youtube.com/shorts/wJ-0AtStMB0)
 
-![封面](https://i3.ytimg.com/vi/MSWGF2IAVVs/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/wJ-0AtStMB0/maxresdefault.jpg)
 
 ---
 
