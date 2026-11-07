@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🔴 LIVE (title) - [【ZELDA: MAJORA'S MASK】"I Think the Mask Vendor is Hot" (part 3) #calliolive](https://www.youtube.com/watch?v=bY7R4O4Eruk)
+🔴 LIVE (title) - [【GODHAND】crusin' for a bruisin'', fixin' for a fistin' #calliolive](https://www.youtube.com/watch?v=pcmJoVYzV00)
 
-![封面](https://i3.ytimg.com/vi/bY7R4O4Eruk/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/pcmJoVYzV00/maxresdefault.jpg)
 
 ---
 
