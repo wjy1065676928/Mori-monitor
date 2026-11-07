@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🎬 NEW VIDEO - [rock lickers #anime #hololive #animation #vtuber #envtuber](https://www.youtube.com/shorts/wJ-0AtStMB0)
+🔴 LIVE (title) - [【ZELDA: MAJORA'S MASK】"I Think the Mask Vendor is Hot" (part 3) #calliolive](https://www.youtube.com/watch?v=bY7R4O4Eruk)
 
-![封面](https://i3.ytimg.com/vi/wJ-0AtStMB0/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/bY7R4O4Eruk/maxresdefault.jpg)
 
 ---
 
