@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🔴 LIVE (title) - [【ZELDA: MAJORA'S MASK】only game I wanna play right now sorry.... (part 4) #calliolive](https://www.youtube.com/watch?v=6AQ-ghYOxmc)
+🔴 LIVE (title) - [【member's only】chill hang out and chatting your ears off!! #calliolive](https://www.youtube.com/watch?v=O_5zhRE7P38)
 
-![封面](https://i3.ytimg.com/vi/6AQ-ghYOxmc/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/O_5zhRE7P38/maxresdefault.jpg)
 
 ---
 
