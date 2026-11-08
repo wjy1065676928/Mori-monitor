@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🔴 LIVE (title) - [【GODHAND】crusin' for a bruisin'', fixin' for a fistin' #calliolive](https://www.youtube.com/watch?v=pcmJoVYzV00)
+🔴 LIVE (title) - [【ZELDA: MAJORA'S MASK】only game I wanna play right now sorry.... (part 4) #calliolive](https://www.youtube.com/watch?v=6AQ-ghYOxmc)
 
-![封面](https://i3.ytimg.com/vi/pcmJoVYzV00/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/6AQ-ghYOxmc/maxresdefault.jpg)
 
 ---
 
