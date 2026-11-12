@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🎬 NEW VIDEO - [We’re aimed at you!! #HEADSHOT #dance #hololive #vtuber #envtuber](https://www.youtube.com/shorts/4NKAqzsMSWk)
+🔴 LIVE (title) - [【MARVEL Tōkon: Fighting Souls】fighting on my couch!! with  ⁨@NinomaeInanis⁩  !! #calliolive #PR](https://www.youtube.com/watch?v=EGyR-p-dwc4)
 
-![封面](https://i3.ytimg.com/vi/4NKAqzsMSWk/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/EGyR-p-dwc4/maxresdefault.jpg)
 
 ---
 
