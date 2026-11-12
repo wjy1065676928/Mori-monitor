@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🔴 LIVE (title) - [【ZELDA: MAJORA'S MASK】you've wet mith a ferrible tate (part 5) #calliolive](https://www.youtube.com/watch?v=zF5ciNsNvKE)
+🎬 NEW VIDEO - [We’re aimed at you!! #HEADSHOT #dance #hololive #vtuber #envtuber](https://www.youtube.com/shorts/4NKAqzsMSWk)
 
-![封面](https://i3.ytimg.com/vi/zF5ciNsNvKE/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/4NKAqzsMSWk/maxresdefault.jpg)
 
 ---
 
