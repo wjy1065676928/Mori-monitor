@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🔴 LIVE (title) - [【MARVEL Tōkon: Fighting Souls】fighting on my couch!! with  ⁨@NinomaeInanis⁩  !! #calliolive #PR](https://www.youtube.com/watch?v=EGyR-p-dwc4)
+🔴 LIVE (title) - [【Meccha Chameleon】best hunter pov #calliolive](https://www.youtube.com/watch?v=k7VJs1kk8-c)
 
-![封面](https://i3.ytimg.com/vi/EGyR-p-dwc4/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/k7VJs1kk8-c/maxresdefault.jpg)
 
 ---
 
