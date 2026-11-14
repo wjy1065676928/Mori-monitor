@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🔴 LIVE (title) - [【Meccha Chameleon】best hunter pov #calliolive](https://www.youtube.com/watch?v=k7VJs1kk8-c)
+🔴 LIVE (title) - [【ZELDA: MAJORA'S MASK】WHY MUST YOU FAIL ME SO OFTEN??? (part 6) #calliolive](https://www.youtube.com/watch?v=tQYcVwPhcKI)
 
-![封面](https://i3.ytimg.com/vi/k7VJs1kk8-c/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/tQYcVwPhcKI/maxresdefault.jpg)
 
 ---
 
