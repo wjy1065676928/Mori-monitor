@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🔴 LIVE (title) - [【ZELDA: MAJORA'S MASK】WHY MUST YOU FAIL ME SO OFTEN??? (part 6) #calliolive](https://www.youtube.com/watch?v=tQYcVwPhcKI)
+🔴 LIVE (title) - [【DRAWING WITH...】...mori calliope? #calliolive #PR #DesktopMate](https://www.youtube.com/watch?v=I3hlBx8MeQE)
 
-![封面](https://i3.ytimg.com/vi/tQYcVwPhcKI/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/I3hlBx8MeQE/maxresdefault.jpg)
 
 ---
 
