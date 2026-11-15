@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🔴 LIVE (title) - [【DRAWING WITH...】...mori calliope? #calliolive #PR #DesktopMate](https://www.youtube.com/watch?v=I3hlBx8MeQE)
+🔴 LIVE (title) - [【member's only】look outside (REALLY don't though) #calliolive](https://www.youtube.com/watch?v=x71pYWcTqqg)
 
-![封面](https://i3.ytimg.com/vi/I3hlBx8MeQE/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/x71pYWcTqqg/maxresdefault.jpg)
 
 ---
 
