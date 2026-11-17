@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🔴 LIVE (title) - [【DRAWING WITH...】...mori calliope? #calliolive #PR #DesktopMate](https://www.youtube.com/watch?v=I3hlBx8MeQE)
+🎬 NEW VIDEO - [when your son makes catchy music… #kobokanaeru #hololive #koboswitch #dance #vtuber](https://www.youtube.com/shorts/djNy3oPqCP0)
 
-![封面](https://i3.ytimg.com/vi/I3hlBx8MeQE/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/djNy3oPqCP0/maxresdefault.jpg)
 
 ---
 
