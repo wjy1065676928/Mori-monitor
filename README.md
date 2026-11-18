@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🎬 NEW VIDEO - [when your son makes catchy music… #kobokanaeru #hololive #koboswitch #dance #vtuber](https://www.youtube.com/shorts/djNy3oPqCP0)
+🎬 NEW VIDEO - [In the booth while recording for Kou Tousetsu in the English dub of #ThoughIAmanIneptVillainess #PR](https://www.youtube.com/shorts/tzzuQIFzdUo)
 
-![封面](https://i3.ytimg.com/vi/djNy3oPqCP0/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/tzzuQIFzdUo/maxresdefault.jpg)
 
 ---
 
