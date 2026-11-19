@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🎬 NEW VIDEO - [In the booth while recording for Kou Tousetsu in the English dub of #ThoughIAmanIneptVillainess #PR](https://www.youtube.com/shorts/tzzuQIFzdUo)
+🔴 LIVE (title) - [【MOUSE: P.I. for Hire】6 out of 10 too much cheese #calliolive](https://www.youtube.com/watch?v=VmVocaicQTs)
 
-![封面](https://i3.ytimg.com/vi/tzzuQIFzdUo/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/VmVocaicQTs/maxresdefault.jpg)
 
 ---
 
