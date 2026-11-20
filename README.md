@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🔴 LIVE (title) - [【MOUSE: P.I. for Hire】6 out of 10 too much cheese #calliolive](https://www.youtube.com/watch?v=VmVocaicQTs)
+🔴 LIVE (title) - [【ZELDA: MAJORA'S MASK】oops! all majora! (part 7) #calliolive](https://www.youtube.com/watch?v=-7bwpOUVrNo)
 
-![封面](https://i3.ytimg.com/vi/VmVocaicQTs/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/-7bwpOUVrNo/maxresdefault.jpg)
 
 ---
 
