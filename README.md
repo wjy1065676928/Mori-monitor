@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🔴 LIVE (title) - [【ZELDA: MAJORA'S MASK】oops! all majora! (part 7) #calliolive](https://www.youtube.com/watch?v=-7bwpOUVrNo)
+🔴 LIVE (title) - [【Grand Theft Auto VI】i will try this new game by rockstar #calliolive](https://www.youtube.com/watch?v=_XgsO_az3MI)
 
-![封面](https://i3.ytimg.com/vi/-7bwpOUVrNo/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/_XgsO_az3MI/maxresdefault.jpg)
 
 ---
 
