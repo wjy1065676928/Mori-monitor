@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🔴 LIVE (title) - [【Grand Theft Auto VI】i will try this new game by rockstar #calliolive](https://www.youtube.com/watch?v=_XgsO_az3MI)
+🔴 LIVE (title) - [【Grand Theft Auto VI】gran thef (part 2 maybe of 2, we'll see) #calliolive](https://www.youtube.com/watch?v=0nePZ1EKb0Y)
 
-![封面](https://i3.ytimg.com/vi/_XgsO_az3MI/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/0nePZ1EKb0Y/maxresdefault.jpg)
 
 ---
 
