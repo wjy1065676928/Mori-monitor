@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🔴 LIVE (title) - [【member's only】designing a dungeon to run some friends through!! #calliolive](https://www.youtube.com/watch?v=i_yTbp0jgBw)
+🔴 LIVE (title) - [【holoDori Triathlon】winner pov (again) #calliolive #holodori](https://www.youtube.com/watch?v=bqiKwe0ToZs)
 
-![封面](https://i3.ytimg.com/vi/i_yTbp0jgBw/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/bqiKwe0ToZs/maxresdefault.jpg)
 
 ---
 
