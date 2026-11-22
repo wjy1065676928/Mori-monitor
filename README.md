@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🔴 LIVE (title) - [【Grand Theft Auto VI】gran thef (part 2 maybe of 2, we'll see) #calliolive](https://www.youtube.com/watch?v=0nePZ1EKb0Y)
+🔴 LIVE (title) - [【MOUSE: P.I. for Hire】6 out of 10 too much cheese #calliolive](https://www.youtube.com/watch?v=VmVocaicQTs)
 
-![封面](https://i3.ytimg.com/vi/0nePZ1EKb0Y/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/VmVocaicQTs/maxresdefault.jpg)
 
 ---
 
