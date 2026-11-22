@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🔴 LIVE (title) - [【MOUSE: P.I. for Hire】6 out of 10 too much cheese #calliolive](https://www.youtube.com/watch?v=VmVocaicQTs)
+🔴 LIVE (title) - [【member's only】designing a dungeon to run some friends through!! #calliolive](https://www.youtube.com/watch?v=i_yTbp0jgBw)
 
-![封面](https://i3.ytimg.com/vi/VmVocaicQTs/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/i_yTbp0jgBw/maxresdefault.jpg)
 
 ---
 
