@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🔴 LIVE (title) - [【holoDori Triathlon】winner pov (again) #calliolive #holodori](https://www.youtube.com/watch?v=bqiKwe0ToZs)
+🔴 LIVE (title) - [【ZELDA: MAJORA'S MASK】water temple 2 (part 8) #calliolive](https://www.youtube.com/watch?v=L_nzsDkkhKg)
 
-![封面](https://i3.ytimg.com/vi/bqiKwe0ToZs/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/L_nzsDkkhKg/maxresdefault.jpg)
 
 ---
 
