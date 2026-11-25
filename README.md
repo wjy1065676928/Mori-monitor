@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🔴 LIVE (title) - [【ZELDA: MAJORA'S MASK】water temple 2 (part 8) #calliolive](https://www.youtube.com/watch?v=L_nzsDkkhKg)
+🔴 LIVE (title) - [【FiGGYZ】UNBOXING and CHATTING!! mori calliope!!! #calliolive #PR](https://www.youtube.com/watch?v=NLSpTeN6BXs)
 
-![封面](https://i3.ytimg.com/vi/L_nzsDkkhKg/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/NLSpTeN6BXs/maxresdefault.jpg)
 
 ---
 
