@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🔴 LIVE (title) - [【ZELDA: MAJORA'S MASK】...it's him (part 9) #calliolive](https://www.youtube.com/watch?v=LyQtttrpvg0)
+🔴 LIVE (title) - [【Grand Theft Auto VI】i ACTUALLY have a license for this (part 3 maybe of 3, we'll see) #calliolive](https://www.youtube.com/watch?v=15_xywz8ZAs)
 
-![封面](https://i3.ytimg.com/vi/LyQtttrpvg0/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/15_xywz8ZAs/maxresdefault.jpg)
 
 ---
 
