@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🔴 LIVE (title) - [【FiGGYZ】UNBOXING and CHATTING!! mori calliope!!! #calliolive #PR](https://www.youtube.com/watch?v=NLSpTeN6BXs)
+🔴 LIVE (title) - [【ZELDA: MAJORA'S MASK】...it's him (part 9) #calliolive](https://www.youtube.com/watch?v=LyQtttrpvg0)
 
-![封面](https://i3.ytimg.com/vi/NLSpTeN6BXs/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/LyQtttrpvg0/maxresdefault.jpg)
 
 ---
 
