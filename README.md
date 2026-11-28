@@ -1,8 +1,8 @@
 # 最新视频/直播
 
-🔴 LIVE (title) - [【CHADCast】EPISODE 4 - the episode where Bae is definitely here #calliolive #chadcast](https://www.youtube.com/watch?v=g-mV33MVjwA)
+🔴 LIVE (title) - [【Grand Theft Auto VI】i ACTUALLY have a license for this (part 3 maybe of 3, we'll see) #calliolive](https://www.youtube.com/watch?v=15_xywz8ZAs)
 
-![封面](https://i3.ytimg.com/vi/g-mV33MVjwA/maxresdefault.jpg)
+![封面](https://i3.ytimg.com/vi/15_xywz8ZAs/maxresdefault.jpg)
 
 ---
 
